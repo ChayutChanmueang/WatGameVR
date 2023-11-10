@@ -1,0 +1,5574 @@
+fileFormatVersion: 2
+guid: ce60802310f60cd44b05213b28df00fe
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: group 1
+    100006: group1
+    100008: group2
+    100010: group41
+    100012: group42
+    100014: group43
+    100016: group44
+    100018: group45
+    100020: group46
+    100022: IceCreamTank_2:group41
+    100024: IceCreamTank_2:pCylinder1
+    100026: IceCreamTank_2:pCylinder24
+    100028: IceCreamTank_2:pCylinder26
+    100030: IceCreamTank_2:pCylinder27
+    100032: IceCreamTank_2:pCylinder28
+    100034: IceCreamTank_2:pCylinder29
+    100036: IceCreamTank_2:pCylinder30
+    100038: IceCreamTank_2:pCylinder31
+    100040: IceCreamTank_2:pCylinder32
+    100042: IceCreamTank_2:pCylinder33
+    100044: IceCreamTank_2:pCylinder34
+    100046: IceCreamTank_2:pCylinder36
+    100048: IceCreamTank_2:polySurface1
+    100050: IceCreamTank_2:polySurface2
+    100052: IceCreamTank_2:polySurface34
+    100054: IceCreamTank_2:polySurface35
+    100056: IceCreamTank_2:polySurface36
+    100058: IceCreamTank_2:polySurface36 1
+    100060: IceCreamTank_2:polySurface37
+    100062: IceCreamTank_2:polySurface38
+    100064: IceCreamTank_2:polySurface39
+    100066: IceCreamTank_2:pPlane1
+    100068: IceCreamTank_2:pTorus2
+    100070: IceCreamTank_2:pTorus2 1
+    100072: IceCreamTank_2:pTorus3
+    100074: IceCreamTank_2:transform1
+    100076: IceCreamTank_2:transform2
+    100078: IceCreamTank_2:transform3
+    100080: IceCreamTank_2:transform4
+    100082: IceCreamTank_2:transform46
+    100084: IceCreamTank_2:transform47
+    100086: IceCreamTank_2:transform48
+    100088: IceCreamTank_2:transform49
+    100090: IceCreamTank_2:transform5
+    100092: IceCreamTank_2:transform50
+    100094: IceCreamTank_2:transform51
+    100096: IceCreamTank_2:transform52
+    100098: IceCreamTank_2:transform53
+    100100: IceCreamTank_2:transform54
+    100102: IceCreamTank_2:transform55
+    100104: IceCreamTank_2:transform56
+    100106: IceCreamTank_2:transform57
+    100108: IceCreamTank_2:transform58
+    100110: IceCreamTank_2:transform59
+    100112: IceCreamTank_2:transform60
+    100114: IceCreamTank_2:transform61
+    100116: IceCreamTank_2:transform62
+    100118: IceCreamTank_2:transform63
+    100120: IceCreamTank_2:transform64
+    100122: IceCreamTank_2:transform65
+    100124: IceCreamTank_3:pCylinder25
+    100126: IceCreamTank_3:pCylinder35
+    100128: IceCreamTank_3:pCylinder37
+    100130: IceCreamTank_3:polySurface37
+    100132: IceCreamTank_3:pSphere1
+    100134: icee:pCube7
+    100136: pasted__pCube46_3
+    100138: pasted__pCube49
+    100140: pasted__pCube50_2
+    100142: pasted__pCube50_3
+    100144: pasted__pCube51_1
+    100146: pasted__pCylinder105
+    100148: pasted__pCylinder44
+    100150: pasted__pSphere1
+    100152: pasted__pSphere10
+    100154: pasted__pSphere11
+    100156: pasted__pSphere12
+    100158: pasted__pSphere13
+    100160: pasted__pSphere14
+    100162: pasted__pSphere15
+    100164: pasted__pSphere16
+    100166: pasted__pSphere17
+    100168: pasted__pSphere18
+    100170: pasted__pSphere19
+    100172: pasted__pSphere2
+    100174: pasted__pSphere20
+    100176: pasted__pSphere21
+    100178: pasted__pSphere22
+    100180: pasted__pSphere23
+    100182: pasted__pSphere24
+    100184: pasted__pSphere25
+    100186: pasted__pSphere26
+    100188: pasted__pSphere27
+    100190: pasted__pSphere28
+    100192: pasted__pSphere29
+    100194: pasted__pSphere3
+    100196: pasted__pSphere30
+    100198: pasted__pSphere31
+    100200: pasted__pSphere32
+    100202: pasted__pSphere33
+    100204: pasted__pSphere34
+    100206: pasted__pSphere35
+    100208: pasted__pSphere36
+    100210: pasted__pSphere37
+    100212: pasted__pSphere39
+    100214: pasted__pSphere4
+    100216: pasted__pSphere40
+    100218: pasted__pSphere41
+    100220: pasted__pSphere5
+    100222: pasted__pSphere6
+    100224: pasted__pSphere7
+    100226: pasted__pSphere8
+    100228: pasted__pSphere9
+    100230: pCube1
+    100232: pCube24
+    100234: pCylinder1
+    100236: pCylinder25
+    100238: pCylinder25 1
+    100240: pCylinder25 2
+    100242: pCylinder35
+    100244: pCylinder36
+    100246: pCylinder37
+    100248: polySurface1
+    100250: polySurface10
+    100252: polySurface11
+    100254: polySurface115
+    100256: polySurface119
+    100258: polySurface12
+    100260: polySurface120
+    100262: polySurface121
+    100264: polySurface122
+    100266: polySurface123
+    100268: polySurface124
+    100270: polySurface125
+    100272: polySurface126
+    100274: polySurface127
+    100276: polySurface128
+    100278: polySurface129
+    100280: polySurface13
+    100282: polySurface130
+    100284: polySurface131
+    100286: polySurface132
+    100288: polySurface133
+    100290: polySurface134
+    100292: polySurface135
+    100294: polySurface136
+    100296: polySurface137
+    100298: polySurface138
+    100300: polySurface139
+    100302: polySurface14
+    100304: polySurface140
+    100306: polySurface141
+    100308: polySurface142
+    100310: polySurface143
+    100312: polySurface144
+    100314: polySurface145
+    100316: polySurface146
+    100318: polySurface147
+    100320: polySurface148
+    100322: polySurface149
+    100324: polySurface15
+    100326: polySurface150
+    100328: polySurface151
+    100330: polySurface152
+    100332: polySurface153
+    100334: polySurface154
+    100336: polySurface155
+    100338: polySurface156
+    100340: polySurface157
+    100342: polySurface158
+    100344: polySurface16
+    100346: polySurface17
+    100348: polySurface171
+    100350: polySurface173
+    100352: polySurface174
+    100354: polySurface18
+    100356: polySurface19
+    100358: polySurface20
+    100360: polySurface21
+    100362: polySurface22
+    100364: polySurface23
+    100366: polySurface24
+    100368: polySurface25
+    100370: polySurface26
+    100372: polySurface27
+    100374: polySurface28
+    100376: polySurface29
+    100378: polySurface30
+    100380: polySurface31
+    100382: polySurface35
+    100384: polySurface36
+    100386: polySurface37
+    100388: polySurface38
+    100390: polySurface8
+    100392: polySurface9
+    100394: pPlane1
+    100396: Prob:group
+    100398: Prob:group1
+    100400: Prob:group2
+    100402: Prob:group3
+    100404: Prob:group4
+    100406: Prob:pasted__group
+    100408: Prob:pasted__group 1
+    100410: Prob:pasted__group20
+    100412: Prob:pasted__group26
+    100414: Prob:pasted__group30
+    100416: Prob:pasted__group40
+    100418: Prob:pasted__group41
+    100420: Prob:pasted__group42
+    100422: Prob:pasted__pasted__pPipe1
+    100424: Prob:pasted__polySurface2
+    100426: Prob:pCylinder1
+    100428: Prob:pCylinder10
+    100430: Prob:pCylinder17
+    100432: Prob:pCylinder3
+    100434: pTorus2
+    100436: pTorus3
+    100438: SaiFire:group
+    100440: SaiFire:pasted__pCylinder105
+    100442: SaiFire:pasted__pSphere1
+    100444: SaiFire:pasted__pSphere10
+    100446: SaiFire:pasted__pSphere11
+    100448: SaiFire:pasted__pSphere12
+    100450: SaiFire:pasted__pSphere13
+    100452: SaiFire:pasted__pSphere14
+    100454: SaiFire:pasted__pSphere15
+    100456: SaiFire:pasted__pSphere16
+    100458: SaiFire:pasted__pSphere17
+    100460: SaiFire:pasted__pSphere18
+    100462: SaiFire:pasted__pSphere19
+    100464: SaiFire:pasted__pSphere2
+    100466: SaiFire:pasted__pSphere20
+    100468: SaiFire:pasted__pSphere21
+    100470: SaiFire:pasted__pSphere22
+    100472: SaiFire:pasted__pSphere23
+    100474: SaiFire:pasted__pSphere24
+    100476: SaiFire:pasted__pSphere25
+    100478: SaiFire:pasted__pSphere26
+    100480: SaiFire:pasted__pSphere27
+    100482: SaiFire:pasted__pSphere28
+    100484: SaiFire:pasted__pSphere29
+    100486: SaiFire:pasted__pSphere3
+    100488: SaiFire:pasted__pSphere30
+    100490: SaiFire:pasted__pSphere31
+    100492: SaiFire:pasted__pSphere32
+    100494: SaiFire:pasted__pSphere33
+    100496: SaiFire:pasted__pSphere34
+    100498: SaiFire:pasted__pSphere35
+    100500: SaiFire:pasted__pSphere36
+    100502: SaiFire:pasted__pSphere37
+    100504: SaiFire:pasted__pSphere39
+    100506: SaiFire:pasted__pSphere4
+    100508: SaiFire:pasted__pSphere40
+    100510: SaiFire:pasted__pSphere41
+    100512: SaiFire:pasted__pSphere5
+    100514: SaiFire:pasted__pSphere6
+    100516: SaiFire:pasted__pSphere7
+    100518: SaiFire:pasted__pSphere8
+    100520: SaiFire:pasted__pSphere9
+    100522: Sum:group
+    100524: Sum:group 1
+    100526: Sum:group1
+    100528: Sum:group2
+    100530: Sum:group36
+    100532: Sum:group37
+    100534: Sum:group39
+    100536: Sum:group40
+    100538: Sum:group41
+    100540: Sum:group42
+    100542: Sum:group43
+    100544: Sum:group44
+    100546: Sum:group45
+    100548: Sum:group46
+    100550: Sum:group47
+    100552: Sum:group48
+    100554: Sum:group49
+    100556: Sum:pasted__pCylinder1
+    100558: Sum:pasted__pCylinder10
+    100560: Sum:pasted__pCylinder15
+    100562: Sum:pasted__pCylinder19
+    100564: Sum:pasted__pCylinder2
+    100566: Sum:pasted__pCylinder20
+    100568: Sum:pasted__pCylinder21
+    100570: Sum:pasted__pCylinder3
+    100572: Sum:pasted__pCylinder4
+    100574: Sum:pasted__pCylinder5
+    100576: Sum:pasted__pCylinder6
+    100578: Sum:pasted__pCylinder7
+    100580: Sum:pasted__pCylinder8
+    100582: Sum:pasted__pCylinder9
+    100584: Sum:pasted__pPipe1
+    100586: Sum:pasted__pTorus1
+    100588: Sum:pasted__pTorus2
+    100590: Sum:pasted__pTorus3
+    100592: Sum:pasted__pTorus4
+    100594: Sum:pCube12
+    100596: Sum:pCube13
+    100598: Sum:pCube14
+    100600: Sum:pCube15
+    100602: Sum:pCube17
+    100604: Sum:pCube18
+    100606: Sum:pCube19
+    100608: Sum:pCube2
+    100610: Sum:pCube20
+    100612: Sum:pCube21
+    100614: Sum:pCube22
+    100616: Sum:pCube5
+    100618: Sum:pCylinder1
+    100620: Sum:pCylinder26
+    100622: Sum:pCylinder27
+    100624: Sum:pCylinder28
+    100626: Sum:pCylinder29
+    100628: Sum:pCylinder30
+    100630: Sum:pCylinder31
+    100632: Sum:pCylinder32
+    100634: Sum:polySurface1
+    100636: Sum:polySurface10
+    100638: Sum:polySurface11
+    100640: Sum:polySurface12
+    100642: Sum:polySurface13
+    100644: Sum:polySurface14
+    100646: Sum:polySurface15
+    100648: Sum:polySurface16
+    100650: Sum:polySurface17
+    100652: Sum:polySurface18
+    100654: Sum:polySurface19
+    100656: Sum:polySurface20
+    100658: Sum:polySurface21
+    100660: Sum:polySurface22
+    100662: Sum:polySurface23
+    100664: Sum:polySurface24
+    100666: Sum:polySurface25
+    100668: Sum:polySurface26
+    100670: Sum:polySurface27
+    100672: Sum:polySurface28
+    100674: Sum:polySurface29
+    100676: Sum:polySurface30
+    100678: Sum:polySurface31
+    100680: Sum:polySurface33
+    100682: Sum:polySurface36
+    100684: Sum:polySurface37
+    100686: Sum:polySurface38
+    100688: Sum:polySurface39
+    100690: Sum:polySurface4
+    100692: Sum:polySurface40
+    100694: Sum:polySurface41
+    100696: Sum:polySurface42
+    100698: Sum:polySurface43
+    100700: Sum:polySurface44
+    100702: Sum:polySurface45
+    100704: Sum:polySurface47
+    100706: Sum:polySurface48
+    100708: Sum:polySurface49
+    100710: Sum:polySurface50
+    100712: Sum:polySurface51
+    100714: Sum:polySurface52
+    100716: Sum:polySurface53
+    100718: Sum:polySurface54
+    100720: Sum:polySurface55
+    100722: Sum:polySurface56
+    100724: Sum:polySurface57
+    100726: Sum:polySurface8
+    100728: Sum:polySurface9
+    100730: Sum:polySurface9 1
+    100732: Sum:pPlane1
+    100734: Sum:Prob:group
+    100736: Sum:Prob:group1
+    100738: Sum:Prob:group2
+    100740: Sum:Prob:group3
+    100742: Sum:Prob:group4
+    100744: Sum:Prob:pasted__group
+    100746: Sum:Prob:pasted__group 1
+    100748: Sum:Prob:pasted__group20
+    100750: Sum:Prob:pasted__group26
+    100752: Sum:Prob:pasted__group30
+    100754: Sum:Prob:pasted__group40
+    100756: Sum:Prob:pasted__group41
+    100758: Sum:Prob:pasted__group42
+    100760: Sum:Prob:pasted__pasted__pPipe1
+    100762: Sum:Prob:pasted__pCylinder19
+    100764: Sum:Prob:pasted__pCylinder20
+    100766: Sum:Prob:pasted__pCylinder21
+    100768: Sum:Prob:pasted__pCylinder22
+    100770: Sum:Prob:pasted__pCylinder23
+    100772: Sum:Prob:pasted__pCylinder5
+    100774: Sum:Prob:pasted__polySurface2
+    100776: Sum:Prob:pCylinder1
+    100778: Sum:Prob:pCylinder10
+    100780: Sum:Prob:pCylinder17
+    100782: Sum:Prob:pCylinder3
+    100784: Sum:Prob:pCylinder5
+    100786: Sum:pTorus2
+    100788: Sum:pTorus3
+    100790: Sum:transform1
+    100792: Sum:transform10
+    100794: Sum:transform100
+    100796: Sum:transform101
+    100798: Sum:transform102
+    100800: Sum:transform11
+    100802: Sum:transform12
+    100804: Sum:transform13
+    100806: Sum:transform14
+    100808: Sum:transform15
+    100810: Sum:transform16
+    100812: Sum:transform17
+    100814: Sum:transform18
+    100816: Sum:transform19
+    100818: Sum:transform2
+    100820: Sum:transform20
+    100822: Sum:transform21
+    100824: Sum:transform22
+    100826: Sum:transform23
+    100828: Sum:transform24
+    100830: Sum:transform25
+    100832: Sum:transform26
+    100834: Sum:transform27
+    100836: Sum:transform28
+    100838: Sum:transform29
+    100840: Sum:transform3
+    100842: Sum:transform30
+    100844: Sum:transform31
+    100846: Sum:transform32
+    100848: Sum:transform33
+    100850: Sum:transform34
+    100852: Sum:transform35
+    100854: Sum:transform36
+    100856: Sum:transform37
+    100858: Sum:transform38
+    100860: Sum:transform39
+    100862: Sum:transform4
+    100864: Sum:transform40
+    100866: Sum:transform41
+    100868: Sum:transform42
+    100870: Sum:transform43
+    100872: Sum:transform44
+    100874: Sum:transform45
+    100876: Sum:transform46
+    100878: Sum:transform47
+    100880: Sum:transform48
+    100882: Sum:transform49
+    100884: Sum:transform5
+    100886: Sum:transform50
+    100888: Sum:transform51
+    100890: Sum:transform52
+    100892: Sum:transform53
+    100894: Sum:transform54
+    100896: Sum:transform55
+    100898: Sum:transform56
+    100900: Sum:transform57
+    100902: Sum:transform58
+    100904: Sum:transform59
+    100906: Sum:transform6
+    100908: Sum:transform60
+    100910: Sum:transform61
+    100912: Sum:transform62
+    100914: Sum:transform63
+    100916: Sum:transform64
+    100918: Sum:transform65
+    100920: Sum:transform66
+    100922: Sum:transform67
+    100924: Sum:transform68
+    100926: Sum:transform69
+    100928: Sum:transform7
+    100930: Sum:transform70
+    100932: Sum:transform71
+    100934: Sum:transform72
+    100936: Sum:transform73
+    100938: Sum:transform74
+    100940: Sum:transform75
+    100942: Sum:transform76
+    100944: Sum:transform77
+    100946: Sum:transform78
+    100948: Sum:transform79
+    100950: Sum:transform8
+    100952: Sum:transform80
+    100954: Sum:transform81
+    100956: Sum:transform82
+    100958: Sum:transform83
+    100960: Sum:transform84
+    100962: Sum:transform85
+    100964: Sum:transform86
+    100966: Sum:transform87
+    100968: Sum:transform88
+    100970: Sum:transform89
+    100972: Sum:transform9
+    100974: Sum:transform90
+    100976: Sum:transform91
+    100978: Sum:transform92
+    100980: Sum:transform93
+    100982: Sum:transform94
+    100984: Sum:transform95
+    100986: Sum:transform96
+    100988: Sum:transform97
+    100990: Sum:transform98
+    100992: Sum:transform99
+    100994: transform1
+    100996: transform18
+    100998: transform19
+    101000: transform2
+    101002: transform20
+    101004: transform21
+    101006: transform22
+    101008: transform23
+    101010: transform24
+    101012: transform25
+    101014: transform26
+    101016: transform27
+    101018: transform28
+    101020: transform29
+    101022: transform3
+    101024: transform30
+    101026: transform31
+    101028: transform32
+    101030: transform33
+    101032: transform34
+    101034: transform35
+    101036: transform36
+    101038: transform37
+    101040: transform38
+    101042: transform39
+    101044: transform4
+    101046: transform40
+    101048: transform41
+    101050: transform42
+    101052: transform43
+    101054: transform44
+    101056: transform45
+    101058: transform46
+    101060: transform5
+    101062: transform50
+    101064: transform51
+    101066: transform52
+    101068: transform60
+    101070: transform61
+    101072: transform62
+    101074: transform63
+    101076: transform64
+    101078: transform65
+    101080: transform66
+    101082: transform67
+    101084: transform68
+    101086: transform69
+    101088: transform70
+    101090: transform71
+    101092: transform72
+    101094: transform73
+    101096: transform74
+    101098: transform75
+    101100: transform76
+    101102: transform77
+    101104: transform78
+    101106: transform79
+    101108: transform80
+    101110: transform81
+    101112: transform82
+    101114: transform83
+    101116: transform84
+    101118: transform85
+    101120: transform86
+    101122: chinping
+    101124: floor
+    101126: ice
+    101128: jedi
+    101130: left_shop
+    101132: main_shop
+    101134: pCylinder38
+    101136: pCylinder39
+    101138: right_shop
+    101140: somtum
+    101142: temple_2D
+    101144: wall
+    101146: wall_temple
+    101148: ALL_Model
+    101150: back
+    101152: balloon_pCube1
+    101154: balloon_pCube2
+    101156: balloon_pCylinder1
+    101158: balloon_pCylinder2
+    101160: balloon_pCylinder3
+    101162: balloon_pCylinder4
+    101164: balloon_pCylinder5
+    101166: balloon_pCylinder6
+    101168: balloon_pCylinder7
+    101170: balloon_pCylinder8
+    101172: balloon_polySurface1
+    101174: balloon_pSphere1
+    101176: balloon_pSphere2
+    101178: balloon_pSphere3
+    101180: balloon_pSphere4
+    101182: balloon_pSphere5
+    101184: camera1
+    101186: chair_pCube1
+    101188: chair_pCube10
+    101190: chair_pCube2
+    101192: chair_pCube3
+    101194: chair_pCube6
+    101196: chair_pCube7
+    101198: chair_pCube8
+    101200: chair_pCube9
+    101202: chair_pCylinder1
+    101204: chair_pCylinder2
+    101206: chair_pCylinder3
+    101208: chair_pCylinder4
+    101210: CoreGame_Obj_pCube1
+    101212: CoreGame_Obj_pCube10
+    101214: CoreGame_Obj_pCube2
+    101216: CoreGame_Obj_pCube3
+    101218: CoreGame_Obj_pCube4
+    101220: CoreGame_Obj_pCube5
+    101222: CoreGame_Obj_pCube6
+    101224: CoreGame_Obj_pCube7
+    101226: CoreGame_Obj_pCube8
+    101228: CoreGame_Obj_pCube9
+    101230: CoreGame_Obj_polySurface13
+    101232: CoreGame_Obj_polySurface2
+    101234: CoreGame_Obj_polySurface3
+    101236: CoreGame_Obj_pPlane1
+    101238: CoreGame_Obj_pPlane2
+    101240: fall_pCube2
+    101242: fall_pCube3
+    101244: fall_pCylinder1
+    101246: fall_pSphere1
+    101248: fall_pSphere2
+    101250: fall_pSphere3
+    101252: fall_pSphere4
+    101254: fall_pSphere5
+    101256: fall_pSphere6
+    101258: group3
+    101260: HitTheTincan_pCube10
+    101262: HitTheTincan_pCube11
+    101264: HitTheTincan_pCube2
+    101266: HitTheTincan_pCube3
+    101268: left
+    101270: pasted__pCylinder8
+    101272: pasted__pCylinder8 1
+    101274: pasted__polySurface10
+    101276: pasted__polySurface10 1
+    101278: pasted__polySurface10 2
+    101280: pasted__polySurface10 3
+    101282: pasted__polySurface10 4
+    101284: pasted__polySurface10 5
+    101286: pasted__pPipe43
+    101288: pasted__pPipe43 1
+    101290: pasted__pPipe44
+    101292: pasted__pPipe44 1
+    101294: pasted__pPipe45
+    101296: pasted__pPipe45 1
+    101298: pasted__pPipe46
+    101300: pasted__pPipe46 1
+    101302: pasted__pPipe47
+    101304: pasted__pPipe47 1
+    101306: pasted__pPipe48
+    101308: pasted__pPipe48 1
+    101310: pasted__pPipe49
+    101312: pasted__pPipe49 1
+    101314: pasted__pPipe50
+    101316: pasted__pPipe50 1
+    101318: pasted__pPipe51
+    101320: pasted__pPipe51 1
+    101322: pasted__pPipe52
+    101324: pasted__pPipe52 1
+    101326: pasted__pPipe53
+    101328: pasted__pPipe53 1
+    101330: pasted__pPipe54
+    101332: pasted__pPipe54 1
+    101334: pCube10
+    101336: pCube11
+    101338: pCube12
+    101340: pCube2
+    101342: pCube3
+    101344: pCube4
+    101346: pCube5
+    101348: pCube6
+    101350: pCube7
+    101352: pCube8
+    101354: pCube9
+    101356: pCylinder10
+    101358: pCylinder11
+    101360: pCylinder12
+    101362: pCylinder13
+    101364: pCylinder14
+    101366: pCylinder15
+    101368: pCylinder16
+    101370: pCylinder17
+    101372: pCylinder18
+    101374: pCylinder19
+    101376: pCylinder2
+    101378: pCylinder20
+    101380: pCylinder21
+    101382: pCylinder22
+    101384: pCylinder23
+    101386: pCylinder24
+    101388: pCylinder26
+    101390: pCylinder27
+    101392: pCylinder28
+    101394: pCylinder29
+    101396: pCylinder3
+    101398: pCylinder30
+    101400: pCylinder31
+    101402: pCylinder32
+    101404: pCylinder33
+    101406: pCylinder34
+    101408: pCylinder4
+    101410: pCylinder40
+    101412: pCylinder5
+    101414: pCylinder6
+    101416: pCylinder7
+    101418: pCylinder8
+    101420: pCylinder9
+    101422: polySurface1 1
+    101424: polySurface1 2
+    101426: polySurface1 3
+    101428: polySurface1 4
+    101430: polySurface10 1
+    101432: polySurface10 2
+    101434: polySurface12 1
+    101436: polySurface12 2
+    101438: polySurface12 3
+    101440: polySurface12 4
+    101442: polySurface14 1
+    101444: polySurface14 2
+    101446: polySurface15 1
+    101448: polySurface15 2
+    101450: polySurface16 1
+    101452: polySurface16 2
+    101454: polySurface17 1
+    101456: polySurface17 2
+    101458: polySurface18 1
+    101460: polySurface18 2
+    101462: polySurface19 1
+    101464: polySurface19 2
+    101466: polySurface2
+    101468: polySurface2 1
+    101470: polySurface2 2
+    101472: polySurface2 3
+    101474: polySurface2 4
+    101476: polySurface2 5
+    101478: polySurface2 6
+    101480: polySurface2 7
+    101482: polySurface20 1
+    101484: polySurface20 2
+    101486: polySurface21 1
+    101488: polySurface21 2
+    101490: polySurface22 1
+    101492: polySurface22 2
+    101494: polySurface24 1
+    101496: polySurface24 2
+    101498: polySurface25 1
+    101500: polySurface25 2
+    101502: polySurface26 1
+    101504: polySurface26 2
+    101506: polySurface27 1
+    101508: polySurface27 2
+    101510: polySurface28 1
+    101512: polySurface28 2
+    101514: polySurface29 1
+    101516: polySurface29 2
+    101518: polySurface3
+    101520: polySurface3 1
+    101522: polySurface3 2
+    101524: polySurface3 3
+    101526: polySurface3 4
+    101528: polySurface3 5
+    101530: polySurface30 1
+    101532: polySurface30 2
+    101534: polySurface31 1
+    101536: polySurface31 2
+    101538: polySurface32
+    101540: polySurface32 1
+    101542: polySurface33
+    101544: polySurface33 1
+    101546: polySurface34
+    101548: polySurface34 1
+    101550: polySurface35 1
+    101552: polySurface35 2
+    101554: polySurface36 1
+    101556: polySurface36 2
+    101558: polySurface37 1
+    101560: polySurface37 2
+    101562: polySurface38 1
+    101564: polySurface38 2
+    101566: polySurface39
+    101568: polySurface39 1
+    101570: polySurface4
+    101572: polySurface4 1
+    101574: polySurface4 2
+    101576: polySurface4 3
+    101578: polySurface4 4
+    101580: polySurface4 5
+    101582: polySurface40
+    101584: polySurface40 1
+    101586: polySurface41
+    101588: polySurface41 1
+    101590: polySurface42
+    101592: polySurface42 1
+    101594: polySurface42 2
+    101596: polySurface43
+    101598: polySurface43 1
+    101600: polySurface44
+    101602: polySurface44 1
+    101604: polySurface45
+    101606: polySurface45 1
+    101608: polySurface46
+    101610: polySurface46 1
+    101612: polySurface47
+    101614: polySurface47 1
+    101616: polySurface48
+    101618: polySurface48 1
+    101620: polySurface49
+    101622: polySurface49 1
+    101624: polySurface5
+    101626: polySurface5 1
+    101628: polySurface5 2
+    101630: polySurface5 3
+    101632: polySurface5 4
+    101634: polySurface5 5
+    101636: polySurface50
+    101638: polySurface50 1
+    101640: polySurface51
+    101642: polySurface51 1
+    101644: polySurface52
+    101646: polySurface52 1
+    101648: polySurface53
+    101650: polySurface53 1
+    101652: polySurface54
+    101654: polySurface54 1
+    101656: polySurface55
+    101658: polySurface55 1
+    101660: polySurface56
+    101662: polySurface56 1
+    101664: polySurface57
+    101666: polySurface57 1
+    101668: polySurface58
+    101670: polySurface58 1
+    101672: polySurface59
+    101674: polySurface59 1
+    101676: polySurface6
+    101678: polySurface6 1
+    101680: polySurface6 2
+    101682: polySurface6 3
+    101684: polySurface60
+    101686: polySurface60 1
+    101688: polySurface61
+    101690: polySurface61 1
+    101692: polySurface62
+    101694: polySurface62 1
+    101696: polySurface63
+    101698: polySurface63 1
+    101700: polySurface64
+    101702: polySurface64 1
+    101704: polySurface65
+    101706: polySurface65 1
+    101708: polySurface66
+    101710: polySurface66 1
+    101712: polySurface67
+    101714: polySurface67 1
+    101716: polySurface68
+    101718: polySurface68 1
+    101720: polySurface69
+    101722: polySurface69 1
+    101724: polySurface7
+    101726: polySurface7 1
+    101728: polySurface7 2
+    101730: polySurface70
+    101732: polySurface70 1
+    101734: polySurface71
+    101736: polySurface71 1
+    101738: polySurface72
+    101740: polySurface72 1
+    101742: polySurface73
+    101744: polySurface73 1
+    101746: polySurface74
+    101748: polySurface75
+    101750: polySurface76
+    101752: polySurface77
+    101754: polySurface78
+    101756: polySurface79
+    101758: polySurface8 1
+    101760: polySurface8 2
+    101762: polySurface8 3
+    101764: polySurface8 4
+    101766: polySurface80
+    101768: polySurface81
+    101770: polySurface82
+    101772: polySurface83
+    101774: polySurface84
+    101776: polySurface85
+    101778: polySurface86
+    101780: polySurface87
+    101782: polySurface88
+    101784: polySurface89
+    101786: polySurface9 1
+    101788: polySurface9 2
+    101790: polySurface9 3
+    101792: polySurface90
+    101794: pPipe1
+    101796: pPipe10
+    101798: pPipe11
+    101800: pPipe12
+    101802: pPipe13
+    101804: pPipe14
+    101806: pPipe15
+    101808: pPipe16
+    101810: pPipe17
+    101812: pPipe18
+    101814: pPipe19
+    101816: pPipe2
+    101818: pPipe20
+    101820: pPipe21
+    101822: pPipe22
+    101824: pPipe23
+    101826: pPipe24
+    101828: pPipe25
+    101830: pPipe26
+    101832: pPipe27
+    101834: pPipe28
+    101836: pPipe29
+    101838: pPipe3
+    101840: pPipe30
+    101842: pPipe4
+    101844: pPipe43
+    101846: pPipe44
+    101848: pPipe45
+    101850: pPipe46
+    101852: pPipe47
+    101854: pPipe48
+    101856: pPipe49
+    101858: pPipe5
+    101860: pPipe50
+    101862: pPipe51
+    101864: pPipe52
+    101866: pPipe53
+    101868: pPipe54
+    101870: pPipe55
+    101872: pPipe56
+    101874: pPipe6
+    101876: pPipe7
+    101878: pPipe8
+    101880: pPipe9
+    101882: pPlane3
+    101884: pPlane4
+    101886: pPlane5
+    101888: pPlane6
+    101890: pPlane7
+    101892: pPlane8
+    101894: pSphere1
+    101896: pSphere2
+    101898: pSphere3
+    101900: pSphere4
+    101902: pSphere5
+    101904: pSphere6
+    101906: pSphere7
+    101908: SaiFire1:pasted__pCylinder105
+    101910: SaiFire1:pasted__pSphere1
+    101912: SaiFire1:pasted__pSphere10
+    101914: SaiFire1:pasted__pSphere11
+    101916: SaiFire1:pasted__pSphere12
+    101918: SaiFire1:pasted__pSphere13
+    101920: SaiFire1:pasted__pSphere14
+    101922: SaiFire1:pasted__pSphere15
+    101924: SaiFire1:pasted__pSphere16
+    101926: SaiFire1:pasted__pSphere17
+    101928: SaiFire1:pasted__pSphere18
+    101930: SaiFire1:pasted__pSphere19
+    101932: SaiFire1:pasted__pSphere2
+    101934: SaiFire1:pasted__pSphere20
+    101936: SaiFire1:pasted__pSphere21
+    101938: SaiFire1:pasted__pSphere22
+    101940: SaiFire1:pasted__pSphere23
+    101942: SaiFire1:pasted__pSphere24
+    101944: SaiFire1:pasted__pSphere25
+    101946: SaiFire1:pasted__pSphere26
+    101948: SaiFire1:pasted__pSphere27
+    101950: SaiFire1:pasted__pSphere28
+    101952: SaiFire1:pasted__pSphere29
+    101954: SaiFire1:pasted__pSphere3
+    101956: SaiFire1:pasted__pSphere30
+    101958: SaiFire1:pasted__pSphere31
+    101960: SaiFire1:pasted__pSphere32
+    101962: SaiFire1:pasted__pSphere33
+    101964: SaiFire1:pasted__pSphere34
+    101966: SaiFire1:pasted__pSphere35
+    101968: SaiFire1:pasted__pSphere36
+    101970: SaiFire1:pasted__pSphere37
+    101972: SaiFire1:pasted__pSphere39
+    101974: SaiFire1:pasted__pSphere4
+    101976: SaiFire1:pasted__pSphere40
+    101978: SaiFire1:pasted__pSphere41
+    101980: SaiFire1:pasted__pSphere5
+    101982: SaiFire1:pasted__pSphere6
+    101984: SaiFire1:pasted__pSphere7
+    101986: SaiFire1:pasted__pSphere8
+    101988: SaiFire1:pasted__pSphere9
+    101990: shop_pCube1
+    101992: shop_pCube2
+    101994: shop_pCube3
+    101996: shop_pCube4
+    101998: shop_pCube5
+    102000: shop_pCube6
+    102002: shop_pCube7
+    102004: shop_pCylinder3
+    102006: shop_pCylinder4
+    102008: shop_pCylinder5
+    102010: shop_pCylinder6
+    102012: shop_pCylinder8
+    102014: shop_polySurface1
+    102016: shop_polySurface2
+    102018: shop_pPipe1
+    102020: temple_mesh_ALL_Model
+    102022: temple_mesh_back
+    102024: temple_mesh_balloon_pCube1
+    102026: temple_mesh_balloon_pCylinder1
+    102028: temple_mesh_balloon_pCylinder2
+    102030: temple_mesh_balloon_pCylinder3
+    102032: temple_mesh_balloon_pCylinder4
+    102034: temple_mesh_balloon_pCylinder5
+    102036: temple_mesh_balloon_pCylinder6
+    102038: temple_mesh_balloon_pCylinder7
+    102040: temple_mesh_balloon_pCylinder8
+    102042: temple_mesh_balloon_polySurface1
+    102044: temple_mesh_balloon_pSphere1
+    102046: temple_mesh_balloon_pSphere2
+    102048: temple_mesh_balloon_pSphere3
+    102050: temple_mesh_balloon_pSphere4
+    102052: temple_mesh_balloon_pSphere5
+    102054: temple_mesh_chair_pCube1
+    102056: temple_mesh_chair_pCube2
+    102058: temple_mesh_chair_pCube3
+    102060: temple_mesh_chair_pCube6
+    102062: temple_mesh_chair_pCube7
+    102064: temple_mesh_chair_pCube8
+    102066: temple_mesh_chair_pCylinder1
+    102068: temple_mesh_chair_pCylinder2
+    102070: temple_mesh_chair_pCylinder3
+    102072: temple_mesh_chair_pCylinder4
+    102074: temple_mesh_fall_pCube2
+    102076: temple_mesh_fall_pCube3
+    102078: temple_mesh_fall_pCylinder1
+    102080: temple_mesh_fall_pSphere1
+    102082: temple_mesh_fall_pSphere2
+    102084: temple_mesh_fall_pSphere3
+    102086: temple_mesh_fall_pSphere4
+    102088: temple_mesh_fall_pSphere5
+    102090: temple_mesh_fall_pSphere6
+    102092: temple_mesh_group
+    102094: temple_mesh_group1
+    102096: temple_mesh_group2
+    102098: temple_mesh_group3
+    102100: temple_mesh_HitTheTincan_pCube10
+    102102: temple_mesh_HitTheTincan_pCube11
+    102104: temple_mesh_HitTheTincan_pCube2
+    102106: temple_mesh_HitTheTincan_pCube3
+    102108: temple_mesh_left
+    102110: temple_mesh_pCube1
+    102112: temple_mesh_pCube10
+    102114: temple_mesh_pCube2
+    102116: temple_mesh_pCube3
+    102118: temple_mesh_pCube4
+    102120: temple_mesh_pCube5
+    102122: temple_mesh_pCube6
+    102124: temple_mesh_pCube7
+    102126: temple_mesh_pCube8
+    102128: temple_mesh_pCube9
+    102130: temple_mesh_pCylinder1
+    102132: temple_mesh_pCylinder10
+    102134: temple_mesh_pCylinder11
+    102136: temple_mesh_pCylinder12
+    102138: temple_mesh_pCylinder13
+    102140: temple_mesh_pCylinder14
+    102142: temple_mesh_pCylinder15
+    102144: temple_mesh_pCylinder16
+    102146: temple_mesh_pCylinder17
+    102148: temple_mesh_pCylinder18
+    102150: temple_mesh_pCylinder19
+    102152: temple_mesh_pCylinder2
+    102154: temple_mesh_pCylinder20
+    102156: temple_mesh_pCylinder21
+    102158: temple_mesh_pCylinder22
+    102160: temple_mesh_pCylinder23
+    102162: temple_mesh_pCylinder24
+    102164: temple_mesh_pCylinder25
+    102166: temple_mesh_pCylinder26
+    102168: temple_mesh_pCylinder27
+    102170: temple_mesh_pCylinder28
+    102172: temple_mesh_pCylinder29
+    102174: temple_mesh_pCylinder3
+    102176: temple_mesh_pCylinder30
+    102178: temple_mesh_pCylinder31
+    102180: temple_mesh_pCylinder32
+    102182: temple_mesh_pCylinder33
+    102184: temple_mesh_pCylinder34
+    102186: temple_mesh_pCylinder35
+    102188: temple_mesh_pCylinder36
+    102190: temple_mesh_pCylinder37
+    102192: temple_mesh_pCylinder38
+    102194: temple_mesh_pCylinder39
+    102196: temple_mesh_pCylinder4
+    102198: temple_mesh_pCylinder40
+    102200: temple_mesh_pCylinder5
+    102202: temple_mesh_pCylinder6
+    102204: temple_mesh_pCylinder7
+    102206: temple_mesh_pCylinder8
+    102208: temple_mesh_pCylinder9
+    102210: temple_mesh_polySurface1
+    102212: temple_mesh_polySurface10
+    102214: temple_mesh_polySurface12
+    102216: temple_mesh_polySurface13
+    102218: temple_mesh_polySurface23
+    102220: temple_mesh_polySurface3
+    102222: temple_mesh_polySurface4
+    102224: temple_mesh_polySurface42
+    102226: temple_mesh_polySurface5
+    102228: temple_mesh_polySurface6
+    102230: temple_mesh_polySurface74
+    102232: temple_mesh_polySurface75
+    102234: temple_mesh_polySurface76
+    102236: temple_mesh_polySurface77
+    102238: temple_mesh_polySurface78
+    102240: temple_mesh_polySurface79
+    102242: temple_mesh_polySurface80
+    102244: temple_mesh_polySurface81
+    102246: temple_mesh_polySurface82
+    102248: temple_mesh_polySurface83
+    102250: temple_mesh_polySurface84
+    102252: temple_mesh_polySurface85
+    102254: temple_mesh_polySurface86
+    102256: temple_mesh_polySurface87
+    102258: temple_mesh_polySurface88
+    102260: temple_mesh_polySurface89
+    102262: temple_mesh_polySurface90
+    102264: temple_mesh_pPipe1
+    102266: temple_mesh_pPipe10
+    102268: temple_mesh_pPipe11
+    102270: temple_mesh_pPipe12
+    102272: temple_mesh_pPipe13
+    102274: temple_mesh_pPipe14
+    102276: temple_mesh_pPipe15
+    102278: temple_mesh_pPipe16
+    102280: temple_mesh_pPipe17
+    102282: temple_mesh_pPipe18
+    102284: temple_mesh_pPipe19
+    102286: temple_mesh_pPipe2
+    102288: temple_mesh_pPipe20
+    102290: temple_mesh_pPipe21
+    102292: temple_mesh_pPipe22
+    102294: temple_mesh_pPipe23
+    102296: temple_mesh_pPipe24
+    102298: temple_mesh_pPipe25
+    102300: temple_mesh_pPipe26
+    102302: temple_mesh_pPipe27
+    102304: temple_mesh_pPipe28
+    102306: temple_mesh_pPipe29
+    102308: temple_mesh_pPipe3
+    102310: temple_mesh_pPipe30
+    102312: temple_mesh_pPipe4
+    102314: temple_mesh_pPipe43
+    102316: temple_mesh_pPipe44
+    102318: temple_mesh_pPipe45
+    102320: temple_mesh_pPipe46
+    102322: temple_mesh_pPipe47
+    102324: temple_mesh_pPipe48
+    102326: temple_mesh_pPipe49
+    102328: temple_mesh_pPipe5
+    102330: temple_mesh_pPipe50
+    102332: temple_mesh_pPipe51
+    102334: temple_mesh_pPipe52
+    102336: temple_mesh_pPipe53
+    102338: temple_mesh_pPipe54
+    102340: temple_mesh_pPipe55
+    102342: temple_mesh_pPipe6
+    102344: temple_mesh_pPipe7
+    102346: temple_mesh_pPipe8
+    102348: temple_mesh_pPipe9
+    102350: temple_mesh_pPlane1
+    102352: temple_mesh_pPlane2
+    102354: temple_mesh_pPlane3
+    102356: temple_mesh_pPlane4
+    102358: temple_mesh_pPlane5
+    102360: temple_mesh_pPlane6
+    102362: temple_mesh_pPlane7
+    102364: temple_mesh_pPlane8
+    102366: temple_mesh_pSphere1
+    102368: temple_mesh_pSphere2
+    102370: temple_mesh_pSphere3
+    102372: temple_mesh_pSphere4
+    102374: temple_mesh_pSphere5
+    102376: temple_mesh_pSphere6
+    102378: temple_mesh_pSphere7
+    102380: temple_mesh_shop_pCube1
+    102382: temple_mesh_shop_pCube2
+    102384: temple_mesh_shop_pCube3
+    102386: temple_mesh_shop_pCube4
+    102388: temple_mesh_shop_pCube5
+    102390: temple_mesh_shop_pCube6
+    102392: temple_mesh_shop_pCylinder3
+    102394: temple_mesh_shop_pCylinder4
+    102396: temple_mesh_shop_pCylinder5
+    102398: temple_mesh_shop_pCylinder6
+    102400: temple_mesh_shop_pCylinder8
+    102402: temple_mesh_shop_polySurface1
+    102404: temple_mesh_shop_polySurface2
+    102406: temple_mesh_shop_pPipe1
+    102408: temple_mesh_watercar_pCube1
+    102410: temple_mesh_watercar_pCylinder1
+    102412: temple_mesh_watercar_pCylinder11
+    102414: temple_mesh_watercar_pCylinder12
+    102416: temple_mesh_watercar_pCylinder13
+    102418: temple_mesh_watercar_pCylinder14
+    102420: temple_mesh_watercar_pCylinder15
+    102422: temple_mesh_watercar_pCylinder2
+    102424: temple_mesh_watercar_pCylinder3
+    102426: temple_mesh_watercar_pCylinder6
+    102428: temple_mesh_watercar_pCylinder7
+    102430: transform1 1
+    102432: transform1 10
+    102434: transform1 11
+    102436: transform1 12
+    102438: transform1 13
+    102440: transform1 14
+    102442: transform1 15
+    102444: transform1 2
+    102446: transform1 3
+    102448: transform1 4
+    102450: transform1 5
+    102452: transform1 6
+    102454: transform1 7
+    102456: transform1 8
+    102458: transform1 9
+    102460: transform10
+    102462: transform10 1
+    102464: transform10 10
+    102466: transform10 11
+    102468: transform10 12
+    102470: transform10 2
+    102472: transform10 3
+    102474: transform10 4
+    102476: transform10 5
+    102478: transform10 6
+    102480: transform10 7
+    102482: transform10 8
+    102484: transform10 9
+    102486: transform100
+    102488: transform100 1
+    102490: transform101
+    102492: transform101 1
+    102494: transform102
+    102496: transform102 1
+    102498: transform103
+    102500: transform103 1
+    102502: transform104
+    102504: transform104 1
+    102506: transform105
+    102508: transform105 1
+    102510: transform106
+    102512: transform106 1
+    102514: transform107
+    102516: transform107 1
+    102518: transform108
+    102520: transform108 1
+    102522: transform109
+    102524: transform109 1
+    102526: transform11
+    102528: transform11 1
+    102530: transform11 10
+    102532: transform11 2
+    102534: transform11 3
+    102536: transform11 4
+    102538: transform11 5
+    102540: transform11 6
+    102542: transform11 7
+    102544: transform11 8
+    102546: transform11 9
+    102548: transform110
+    102550: transform110 1
+    102552: transform111
+    102554: transform111 1
+    102556: transform112
+    102558: transform112 1
+    102560: transform113
+    102562: transform113 1
+    102564: transform114
+    102566: transform114 1
+    102568: transform115
+    102570: transform115 1
+    102572: transform116
+    102574: transform116 1
+    102576: transform117
+    102578: transform117 1
+    102580: transform118
+    102582: transform118 1
+    102584: transform119
+    102586: transform119 1
+    102588: transform12
+    102590: transform12 1
+    102592: transform12 10
+    102594: transform12 2
+    102596: transform12 3
+    102598: transform12 4
+    102600: transform12 5
+    102602: transform12 6
+    102604: transform12 7
+    102606: transform12 8
+    102608: transform12 9
+    102610: transform120
+    102612: transform120 1
+    102614: transform121
+    102616: transform121 1
+    102618: transform122
+    102620: transform122 1
+    102622: transform123
+    102624: transform123 1
+    102626: transform124
+    102628: transform124 1
+    102630: transform125
+    102632: transform125 1
+    102634: transform126
+    102636: transform126 1
+    102638: transform127
+    102640: transform127 1
+    102642: transform128
+    102644: transform128 1
+    102646: transform129
+    102648: transform129 1
+    102650: transform13
+    102652: transform13 1
+    102654: transform13 2
+    102656: transform13 3
+    102658: transform13 4
+    102660: transform13 5
+    102662: transform13 6
+    102664: transform13 7
+    102666: transform13 8
+    102668: transform130
+    102670: transform130 1
+    102672: transform131
+    102674: transform131 1
+    102676: transform132
+    102678: transform132 1
+    102680: transform133
+    102682: transform133 1
+    102684: transform134
+    102686: transform134 1
+    102688: transform135
+    102690: transform135 1
+    102692: transform136
+    102694: transform136 1
+    102696: transform137
+    102698: transform137 1
+    102700: transform138
+    102702: transform138 1
+    102704: transform139
+    102706: transform139 1
+    102708: transform14
+    102710: transform14 1
+    102712: transform14 2
+    102714: transform14 3
+    102716: transform14 4
+    102718: transform14 5
+    102720: transform14 6
+    102722: transform14 7
+    102724: transform14 8
+    102726: transform140
+    102728: transform140 1
+    102730: transform141
+    102732: transform141 1
+    102734: transform142
+    102736: transform142 1
+    102738: transform143
+    102740: transform143 1
+    102742: transform144
+    102744: transform144 1
+    102746: transform145
+    102748: transform145 1
+    102750: transform146
+    102752: transform146 1
+    102754: transform147
+    102756: transform147 1
+    102758: transform148
+    102760: transform148 1
+    102762: transform149
+    102764: transform149 1
+    102766: transform15
+    102768: transform15 1
+    102770: transform15 2
+    102772: transform15 3
+    102774: transform15 4
+    102776: transform15 5
+    102778: transform15 6
+    102780: transform15 7
+    102782: transform15 8
+    102784: transform150
+    102786: transform150 1
+    102788: transform151
+    102790: transform151 1
+    102792: transform152
+    102794: transform152 1
+    102796: transform153
+    102798: transform153 1
+    102800: transform154
+    102802: transform154 1
+    102804: transform155
+    102806: transform155 1
+    102808: transform156
+    102810: transform156 1
+    102812: transform157
+    102814: transform157 1
+    102816: transform158
+    102818: transform158 1
+    102820: transform159
+    102822: transform159 1
+    102824: transform16
+    102826: transform16 1
+    102828: transform16 2
+    102830: transform16 3
+    102832: transform16 4
+    102834: transform16 5
+    102836: transform16 6
+    102838: transform16 7
+    102840: transform16 8
+    102842: transform160
+    102844: transform160 1
+    102846: transform161
+    102848: transform161 1
+    102850: transform162
+    102852: transform162 1
+    102854: transform163
+    102856: transform163 1
+    102858: transform17
+    102860: transform17 1
+    102862: transform17 2
+    102864: transform17 3
+    102866: transform17 4
+    102868: transform17 5
+    102870: transform17 6
+    102872: transform17 7
+    102874: transform17 8
+    102876: transform18 1
+    102878: transform18 2
+    102880: transform18 3
+    102882: transform18 4
+    102884: transform18 5
+    102886: transform18 6
+    102888: transform18 7
+    102890: transform18 8
+    102892: transform18 9
+    102894: transform19 1
+    102896: transform19 2
+    102898: transform19 3
+    102900: transform19 4
+    102902: transform19 5
+    102904: transform19 6
+    102906: transform19 7
+    102908: transform19 8
+    102910: transform19 9
+    102912: transform2 1
+    102914: transform2 10
+    102916: transform2 11
+    102918: transform2 12
+    102920: transform2 13
+    102922: transform2 14
+    102924: transform2 15
+    102926: transform2 2
+    102928: transform2 3
+    102930: transform2 4
+    102932: transform2 5
+    102934: transform2 6
+    102936: transform2 7
+    102938: transform2 8
+    102940: transform2 9
+    102942: transform20 1
+    102944: transform20 2
+    102946: transform20 3
+    102948: transform20 4
+    102950: transform20 5
+    102952: transform20 6
+    102954: transform20 7
+    102956: transform21 1
+    102958: transform21 2
+    102960: transform21 3
+    102962: transform21 4
+    102964: transform21 5
+    102966: transform22 1
+    102968: transform22 2
+    102970: transform22 3
+    102972: transform22 4
+    102974: transform22 5
+    102976: transform23 1
+    102978: transform23 2
+    102980: transform23 3
+    102982: transform23 4
+    102984: transform23 5
+    102986: transform24 1
+    102988: transform24 2
+    102990: transform24 3
+    102992: transform24 4
+    102994: transform24 5
+    102996: transform25 1
+    102998: transform25 2
+    103000: transform25 3
+    103002: transform25 4
+    103004: transform25 5
+    103006: transform26 1
+    103008: transform26 2
+    103010: transform26 3
+    103012: transform26 4
+    103014: transform27 1
+    103016: transform27 2
+    103018: transform27 3
+    103020: transform27 4
+    103022: transform28 1
+    103024: transform28 2
+    103026: transform28 3
+    103028: transform28 4
+    103030: transform29 1
+    103032: transform29 2
+    103034: transform29 3
+    103036: transform29 4
+    103038: transform3 1
+    103040: transform3 10
+    103042: transform3 11
+    103044: transform3 12
+    103046: transform3 13
+    103048: transform3 14
+    103050: transform3 15
+    103052: transform3 2
+    103054: transform3 3
+    103056: transform3 4
+    103058: transform3 5
+    103060: transform3 6
+    103062: transform3 7
+    103064: transform3 8
+    103066: transform3 9
+    103068: transform30 1
+    103070: transform30 2
+    103072: transform30 3
+    103074: transform30 4
+    103076: transform31 1
+    103078: transform31 2
+    103080: transform31 3
+    103082: transform31 4
+    103084: transform32 1
+    103086: transform32 2
+    103088: transform32 3
+    103090: transform32 4
+    103092: transform33 1
+    103094: transform33 2
+    103096: transform33 3
+    103098: transform33 4
+    103100: transform34 1
+    103102: transform34 2
+    103104: transform34 3
+    103106: transform34 4
+    103108: transform35 1
+    103110: transform35 2
+    103112: transform35 3
+    103114: transform35 4
+    103116: transform36 1
+    103118: transform36 2
+    103120: transform36 3
+    103122: transform36 4
+    103124: transform37 1
+    103126: transform37 2
+    103128: transform37 3
+    103130: transform37 4
+    103132: transform38 1
+    103134: transform38 2
+    103136: transform38 3
+    103138: transform38 4
+    103140: transform39 1
+    103142: transform39 2
+    103144: transform39 3
+    103146: transform39 4
+    103148: transform4 1
+    103150: transform4 10
+    103152: transform4 11
+    103154: transform4 12
+    103156: transform4 13
+    103158: transform4 14
+    103160: transform4 15
+    103162: transform4 2
+    103164: transform4 3
+    103166: transform4 4
+    103168: transform4 5
+    103170: transform4 6
+    103172: transform4 7
+    103174: transform4 8
+    103176: transform4 9
+    103178: transform40 1
+    103180: transform40 2
+    103182: transform40 3
+    103184: transform40 4
+    103186: transform41 1
+    103188: transform41 2
+    103190: transform41 3
+    103192: transform41 4
+    103194: transform42 1
+    103196: transform42 2
+    103198: transform42 3
+    103200: transform42 4
+    103202: transform43 1
+    103204: transform43 2
+    103206: transform43 3
+    103208: transform43 4
+    103210: transform44 1
+    103212: transform44 2
+    103214: transform44 3
+    103216: transform44 4
+    103218: transform45 1
+    103220: transform45 2
+    103222: transform45 3
+    103224: transform45 4
+    103226: transform46 1
+    103228: transform46 2
+    103230: transform46 3
+    103232: transform46 4
+    103234: transform47
+    103236: transform47 1
+    103238: transform47 2
+    103240: transform47 3
+    103242: transform48
+    103244: transform48 1
+    103246: transform48 2
+    103248: transform48 3
+    103250: transform49
+    103252: transform49 1
+    103254: transform49 2
+    103256: transform49 3
+    103258: transform5 1
+    103260: transform5 10
+    103262: transform5 11
+    103264: transform5 12
+    103266: transform5 13
+    103268: transform5 14
+    103270: transform5 15
+    103272: transform5 2
+    103274: transform5 3
+    103276: transform5 4
+    103278: transform5 5
+    103280: transform5 6
+    103282: transform5 7
+    103284: transform5 8
+    103286: transform5 9
+    103288: transform50 1
+    103290: transform50 2
+    103292: transform50 3
+    103294: transform50 4
+    103296: transform51 1
+    103298: transform51 2
+    103300: transform52 1
+    103302: transform52 2
+    103304: transform53
+    103306: transform53 1
+    103308: transform54
+    103310: transform54 1
+    103312: transform55
+    103314: transform55 1
+    103316: transform56
+    103318: transform56 1
+    103320: transform57
+    103322: transform57 1
+    103324: transform58
+    103326: transform58 1
+    103328: transform59
+    103330: transform59 1
+    103332: transform6
+    103334: transform6 1
+    103336: transform6 10
+    103338: transform6 11
+    103340: transform6 12
+    103342: transform6 13
+    103344: transform6 14
+    103346: transform6 2
+    103348: transform6 3
+    103350: transform6 4
+    103352: transform6 5
+    103354: transform6 6
+    103356: transform6 7
+    103358: transform6 8
+    103360: transform6 9
+    103362: transform60 1
+    103364: transform60 2
+    103366: transform61 1
+    103368: transform61 2
+    103370: transform62 1
+    103372: transform62 2
+    103374: transform63 1
+    103376: transform63 2
+    103378: transform64 1
+    103380: transform64 2
+    103382: transform65 1
+    103384: transform65 2
+    103386: transform66 1
+    103388: transform66 2
+    103390: transform67 1
+    103392: transform67 2
+    103394: transform68 1
+    103396: transform68 2
+    103398: transform69 1
+    103400: transform69 2
+    103402: transform7
+    103404: transform7 1
+    103406: transform7 10
+    103408: transform7 11
+    103410: transform7 12
+    103412: transform7 13
+    103414: transform7 14
+    103416: transform7 2
+    103418: transform7 3
+    103420: transform7 4
+    103422: transform7 5
+    103424: transform7 6
+    103426: transform7 7
+    103428: transform7 8
+    103430: transform7 9
+    103432: transform70 1
+    103434: transform70 2
+    103436: transform71 1
+    103438: transform71 2
+    103440: transform72 1
+    103442: transform72 2
+    103444: transform73 1
+    103446: transform73 2
+    103448: transform74 1
+    103450: transform74 2
+    103452: transform75 1
+    103454: transform75 2
+    103456: transform76 1
+    103458: transform76 2
+    103460: transform77 1
+    103462: transform77 2
+    103464: transform78 1
+    103466: transform78 2
+    103468: transform79 1
+    103470: transform79 2
+    103472: transform8
+    103474: transform8 1
+    103476: transform8 10
+    103478: transform8 11
+    103480: transform8 12
+    103482: transform8 13
+    103484: transform8 14
+    103486: transform8 2
+    103488: transform8 3
+    103490: transform8 4
+    103492: transform8 5
+    103494: transform8 6
+    103496: transform8 7
+    103498: transform8 8
+    103500: transform8 9
+    103502: transform80 1
+    103504: transform80 2
+    103506: transform81 1
+    103508: transform81 2
+    103510: transform82 1
+    103512: transform82 2
+    103514: transform83 1
+    103516: transform83 2
+    103518: transform84 1
+    103520: transform84 2
+    103522: transform85 1
+    103524: transform85 2
+    103526: transform86 1
+    103528: transform86 2
+    103530: transform87
+    103532: transform87 1
+    103534: transform88
+    103536: transform88 1
+    103538: transform89
+    103540: transform89 1
+    103542: transform9
+    103544: transform9 1
+    103546: transform9 10
+    103548: transform9 11
+    103550: transform9 12
+    103552: transform9 13
+    103554: transform9 14
+    103556: transform9 2
+    103558: transform9 3
+    103560: transform9 4
+    103562: transform9 5
+    103564: transform9 6
+    103566: transform9 7
+    103568: transform9 8
+    103570: transform9 9
+    103572: transform90
+    103574: transform90 1
+    103576: transform91
+    103578: transform91 1
+    103580: transform92
+    103582: transform92 1
+    103584: transform93
+    103586: transform93 1
+    103588: transform94
+    103590: transform94 1
+    103592: transform95
+    103594: transform95 1
+    103596: transform96
+    103598: transform96 1
+    103600: transform97
+    103602: transform97 1
+    103604: transform98
+    103606: transform98 1
+    103608: transform99
+    103610: transform99 1
+    103612: tree
+    103614: tree2
+    103616: watercar_pCube1
+    103618: watercar_pCylinder1
+    103620: watercar_pCylinder11
+    103622: watercar_pCylinder12
+    103624: watercar_pCylinder13
+    103626: watercar_pCylinder14
+    103628: watercar_pCylinder15
+    103630: watercar_pCylinder2
+    103632: watercar_pCylinder3
+    103634: watercar_pCylinder6
+    103636: watercar_pCylinder7
+    103638: watercar_polySurface1
+    103640: BalloonShop
+    103642: pCylinder1 1
+    103644: polySurface2 8
+    103646: polySurface3 6
+    103648: polySurface4 6
+    103650: polySurface5 6
+    103652: pond
+    103654: saimai
+    103656: saimai_fix_pCube1
+    103658: saimai_fix_pCube2
+    103660: saimai_fix_pCylinder1
+    103662: saimai_fix_pCylinder10
+    103664: saimai_fix_pCylinder11
+    103666: saimai_fix_pCylinder12
+    103668: saimai_fix_pCylinder13
+    103670: saimai_fix_pCylinder14
+    103672: saimai_fix_pCylinder15
+    103674: saimai_fix_pCylinder16
+    103676: saimai_fix_pCylinder2
+    103678: saimai_fix_pCylinder7
+    103680: saimai_fix_pCylinder8
+    103682: saimai_fix_pCylinder9
+    103684: sky
+    103686: temple
+    103688: texture_fix_pCube1
+    103690: texture_fix_pCylinder2
+    103692: texture_fix_pCylinder3
+    103694: texture_fix_pCylinder4
+    103696: texture_fix_pCylinder5
+    103698: texture_fix_pCylinder6
+    103700: texture_fix_pCylinder7
+    103702: texture_fix_pCylinder8
+    103704: texture_fix_polySurface1
+    103706: texture_fix_pSphere1
+    103708: texture_fix_pSphere2
+    103710: texture_fix_pSphere3
+    103712: texture_fix_pSphere4
+    103714: texture_fix_pSphere5
+    103716: transform1 16
+    103718: transform1 17
+    103720: transform10 13
+    103722: transform10 14
+    103724: transform11 11
+    103726: transform11 12
+    103728: transform12 11
+    103730: transform12 12
+    103732: transform13 10
+    103734: transform13 9
+    103736: transform14 10
+    103738: transform14 9
+    103740: transform15 9
+    103742: transform16 9
+    103744: transform17 9
+    103746: transform18 10
+    103748: transform19 10
+    103750: transform2 16
+    103752: transform2 17
+    103754: transform3 16
+    103756: transform3 17
+    103758: transform4 16
+    103760: transform4 17
+    103762: transform5 16
+    103764: transform5 17
+    103766: transform6 15
+    103768: transform6 16
+    103770: transform7 15
+    103772: transform7 16
+    103774: transform8 15
+    103776: transform8 16
+    103778: transform9 15
+    103780: transform9 16
+    103782: group1 1
+    103784: group2 1
+    103786: khowram_back
+    103788: khowram_group
+    103790: khowram_group3
+    103792: khowram_left
+    103794: khowram_pCube1
+    103796: khowram_pCube2
+    103798: khowram_pCube3
+    103800: khowram_pCube4
+    103802: khowram_pCube5
+    103804: khowram_pCube6
+    103806: khowram_pCylinder3
+    103808: khowram_pCylinder4
+    103810: khowram_pCylinder5
+    103812: khowram_pCylinder6
+    103814: khowram_pCylinder8
+    103816: khowram_polySurface1
+    103818: khowram_polySurface10
+    103820: khowram_polySurface12
+    103822: khowram_polySurface2
+    103824: khowram_polySurface3
+    103826: khowram_polySurface4
+    103828: khowram_polySurface42
+    103830: khowram_polySurface5
+    103832: khowram_polySurface6
+    103834: khowram_polySurface74
+    103836: khowram_polySurface75
+    103838: khowram_polySurface76
+    103840: khowram_polySurface77
+    103842: khowram_polySurface78
+    103844: khowram_polySurface79
+    103846: khowram_polySurface80
+    103848: khowram_polySurface81
+    103850: khowram_polySurface82
+    103852: khowram_polySurface83
+    103854: khowram_polySurface84
+    103856: khowram_polySurface85
+    103858: khowram_polySurface86
+    103860: khowram_polySurface87
+    103862: khowram_polySurface88
+    103864: khowram_polySurface89
+    103866: khowram_polySurface90
+    103868: khowram_pPipe1
+    103870: khowram_pPipe10
+    103872: khowram_pPipe11
+    103874: khowram_pPipe12
+    103876: khowram_pPipe13
+    103878: khowram_pPipe14
+    103880: khowram_pPipe15
+    103882: khowram_pPipe16
+    103884: khowram_pPipe17
+    103886: khowram_pPipe18
+    103888: khowram_pPipe19
+    103890: khowram_pPipe2
+    103892: khowram_pPipe20
+    103894: khowram_pPipe21
+    103896: khowram_pPipe22
+    103898: khowram_pPipe23
+    103900: khowram_pPipe24
+    103902: khowram_pPipe25
+    103904: khowram_pPipe26
+    103906: khowram_pPipe27
+    103908: khowram_pPipe28
+    103910: khowram_pPipe29
+    103912: khowram_pPipe3
+    103914: khowram_pPipe30
+    103916: khowram_pPipe4
+    103918: khowram_pPipe43
+    103920: khowram_pPipe44
+    103922: khowram_pPipe45
+    103924: khowram_pPipe46
+    103926: khowram_pPipe47
+    103928: khowram_pPipe48
+    103930: khowram_pPipe49
+    103932: khowram_pPipe5
+    103934: khowram_pPipe50
+    103936: khowram_pPipe51
+    103938: khowram_pPipe52
+    103940: khowram_pPipe53
+    103942: khowram_pPipe54
+    103944: khowram_pPipe55
+    103946: khowram_pPipe6
+    103948: khowram_pPipe7
+    103950: khowram_pPipe8
+    103952: khowram_pPipe9
+    103954: khowram_pPlane3
+    103956: khowram_pPlane4
+    103958: khowram_pPlane5
+    103960: khowram_pPlane6
+    103962: khowram_pPlane7
+    103964: khowram_pPlane8
+    103966: Newporkballs_pCube1
+    103968: Newporkballs_pCube2
+    103970: Newporkballs_pCube3
+    103972: Newporkballs_pCube4
+    103974: Newporkballs_pCube5
+    103976: Newporkballs_pCylinder1
+    103978: Newporkballs_pCylinder15
+    103980: Newporkballs_pCylinder26
+    103982: Newporkballs_pCylinder27
+    103984: Newporkballs_pCylinder28
+    103986: Newporkballs_pCylinder3
+    103988: Newporkballs_pCylinder8
+    103990: newtincan_polySurface1
+    103992: Newwatercar_pCube1
+    103994: Newwatercar_pCylinder1
+    103996: Newwatercar_pCylinder11
+    103998: Newwatercar_pCylinder12
+    104000: Newwatercar_pCylinder13
+    104002: Newwatercar_pCylinder14
+    104004: Newwatercar_pCylinder15
+    104006: Newwatercar_pCylinder2
+    104008: Newwatercar_pCylinder3
+    104010: Newwatercar_pCylinder6
+    104012: Newwatercar_pCylinder7
+    104014: Newwatercar_polySurface3
+    104016: padthai_pCylinder11
+    104018: padthai_pCylinder12
+    104020: pasted__pCylinder8 2
+    104022: pasted__polySurface10 6
+    104024: pasted__polySurface10 7
+    104026: pasted__polySurface10 8
+    104028: pasted__pPipe43 2
+    104030: pasted__pPipe44 2
+    104032: pasted__pPipe45 2
+    104034: pasted__pPipe46 2
+    104036: pasted__pPipe47 2
+    104038: pasted__pPipe48 2
+    104040: pasted__pPipe49 2
+    104042: pasted__pPipe50 2
+    104044: pasted__pPipe51 2
+    104046: pasted__pPipe52 2
+    104048: pasted__pPipe53 2
+    104050: pasted__pPipe54 2
+    104052: patthai
+    104054: polySurface1 5
+    104056: polySurface10 3
+    104058: polySurface11 1
+    104060: polySurface12 5
+    104062: polySurface12 6
+    104064: polySurface13 1
+    104066: polySurface13 2
+    104068: polySurface14 3
+    104070: polySurface14 4
+    104072: polySurface15 3
+    104074: polySurface15 4
+    104076: polySurface16 3
+    104078: polySurface16 4
+    104080: polySurface17 3
+    104082: polySurface17 4
+    104084: polySurface18 3
+    104086: polySurface18 4
+    104088: polySurface19 3
+    104090: polySurface19 4
+    104092: polySurface2 10
+    104094: polySurface2 9
+    104096: polySurface20 3
+    104098: polySurface20 4
+    104100: polySurface21 3
+    104102: polySurface21 4
+    104104: polySurface22 3
+    104106: polySurface22 4
+    104108: polySurface23 1
+    104110: polySurface23 2
+    104112: polySurface24 3
+    104114: polySurface24 4
+    104116: polySurface25 3
+    104118: polySurface25 4
+    104120: polySurface26 3
+    104122: polySurface26 4
+    104124: polySurface27 3
+    104126: polySurface27 4
+    104128: polySurface28 3
+    104130: polySurface28 4
+    104132: polySurface29 3
+    104134: polySurface29 4
+    104136: polySurface3 7
+    104138: polySurface30 3
+    104140: polySurface30 4
+    104142: polySurface31 3
+    104144: polySurface31 4
+    104146: polySurface32 2
+    104148: polySurface32 3
+    104150: polySurface33 2
+    104152: polySurface33 3
+    104154: polySurface34 2
+    104156: polySurface34 3
+    104158: polySurface35 3
+    104160: polySurface35 4
+    104162: polySurface36 3
+    104164: polySurface36 4
+    104166: polySurface37 3
+    104168: polySurface37 4
+    104170: polySurface38 3
+    104172: polySurface38 4
+    104174: polySurface39 2
+    104176: polySurface39 3
+    104178: polySurface4 7
+    104180: polySurface40 2
+    104182: polySurface40 3
+    104184: polySurface41 2
+    104186: polySurface41 3
+    104188: polySurface42 3
+    104190: polySurface42 4
+    104192: polySurface43 2
+    104194: polySurface44 2
+    104196: polySurface45 2
+    104198: polySurface46 2
+    104200: polySurface47 2
+    104202: polySurface48 2
+    104204: polySurface49 2
+    104206: polySurface5 7
+    104208: polySurface50 2
+    104210: polySurface51 2
+    104212: polySurface52 2
+    104214: polySurface53 2
+    104216: polySurface54 2
+    104218: polySurface55 2
+    104220: polySurface56 2
+    104222: polySurface57 2
+    104224: polySurface58 2
+    104226: polySurface59 2
+    104228: polySurface6 4
+    104230: polySurface60 2
+    104232: polySurface61 2
+    104234: polySurface62 2
+    104236: polySurface63 2
+    104238: polySurface64 2
+    104240: polySurface65 2
+    104242: polySurface66 2
+    104244: polySurface67 2
+    104246: polySurface68 2
+    104248: polySurface69 2
+    104250: polySurface7 3
+    104252: polySurface70 2
+    104254: polySurface71 2
+    104256: polySurface72 2
+    104258: polySurface73 2
+    104260: polySurface8 5
+    104262: polySurface9 4
+    104264: polySurface91
+    104266: porkballs
+    104268: pPlane1 1
+    104270: pPlane2
+    104272: pSphere37
+    104274: pSphere48
+    104276: pSphere49
+    104278: pSphere50
+    104280: pSphere9
+    104282: tincan
+    104284: transform1 18
+    104286: transform1 19
+    104288: transform1 20
+    104290: transform1 21
+    104292: transform10 15
+    104294: transform10 16
+    104296: transform10 17
+    104298: transform10 18
+    104300: transform100 2
+    104302: transform101 2
+    104304: transform102 2
+    104306: transform103 2
+    104308: transform104 2
+    104310: transform105 2
+    104312: transform106 2
+    104314: transform107 2
+    104316: transform108 2
+    104318: transform109 2
+    104320: transform11 13
+    104322: transform11 14
+    104324: transform11 15
+    104326: transform11 16
+    104328: transform110 2
+    104330: transform111 2
+    104332: transform112 2
+    104334: transform113 2
+    104336: transform114 2
+    104338: transform115 2
+    104340: transform116 2
+    104342: transform117 2
+    104344: transform118 2
+    104346: transform119 2
+    104348: transform12 13
+    104350: transform12 14
+    104352: transform12 15
+    104354: transform12 16
+    104356: transform120 2
+    104358: transform121 2
+    104360: transform122 2
+    104362: transform123 2
+    104364: transform124 2
+    104366: transform125 2
+    104368: transform126 2
+    104370: transform127 2
+    104372: transform128 2
+    104374: transform129 2
+    104376: transform13 11
+    104378: transform13 12
+    104380: transform13 13
+    104382: transform130 2
+    104384: transform131 2
+    104386: transform132 2
+    104388: transform133 2
+    104390: transform134 2
+    104392: transform135 2
+    104394: transform136 2
+    104396: transform137 2
+    104398: transform138 2
+    104400: transform139 2
+    104402: transform14 11
+    104404: transform14 12
+    104406: transform14 13
+    104408: transform140 2
+    104410: transform141 2
+    104412: transform142 2
+    104414: transform143 2
+    104416: transform144 2
+    104418: transform145 2
+    104420: transform146 2
+    104422: transform147 2
+    104424: transform148 2
+    104426: transform149 2
+    104428: transform15 10
+    104430: transform15 11
+    104432: transform15 12
+    104434: transform150 2
+    104436: transform151 2
+    104438: transform152 2
+    104440: transform153 2
+    104442: transform154 2
+    104444: transform155 2
+    104446: transform156 2
+    104448: transform157 2
+    104450: transform158 2
+    104452: transform159 2
+    104454: transform16 10
+    104456: transform16 11
+    104458: transform16 12
+    104460: transform160 2
+    104462: transform161 2
+    104464: transform162 2
+    104466: transform163 2
+    104468: transform17 10
+    104470: transform17 11
+    104472: transform17 12
+    104474: transform18 11
+    104476: transform18 12
+    104478: transform19 11
+    104480: transform19 12
+    104482: transform2 18
+    104484: transform2 19
+    104486: transform2 20
+    104488: transform2 21
+    104490: transform20 8
+    104492: transform20 9
+    104494: transform21 6
+    104496: transform21 7
+    104498: transform22 6
+    104500: transform22 7
+    104502: transform23 6
+    104504: transform23 7
+    104506: transform24 6
+    104508: transform24 7
+    104510: transform25 6
+    104512: transform25 7
+    104514: transform26 5
+    104516: transform26 6
+    104518: transform27 5
+    104520: transform27 6
+    104522: transform28 5
+    104524: transform28 6
+    104526: transform29 5
+    104528: transform29 6
+    104530: transform3 18
+    104532: transform3 19
+    104534: transform3 20
+    104536: transform3 21
+    104538: transform30 5
+    104540: transform30 6
+    104542: transform31 5
+    104544: transform31 6
+    104546: transform32 5
+    104548: transform32 6
+    104550: transform33 5
+    104552: transform33 6
+    104554: transform34 5
+    104556: transform34 6
+    104558: transform35 5
+    104560: transform35 6
+    104562: transform36 5
+    104564: transform36 6
+    104566: transform37 5
+    104568: transform37 6
+    104570: transform38 5
+    104572: transform38 6
+    104574: transform39 5
+    104576: transform39 6
+    104578: transform4 18
+    104580: transform4 19
+    104582: transform4 20
+    104584: transform4 21
+    104586: transform40 5
+    104588: transform40 6
+    104590: transform41 5
+    104592: transform41 6
+    104594: transform42 5
+    104596: transform43 5
+    104598: transform44 5
+    104600: transform45 5
+    104602: transform46 5
+    104604: transform47 4
+    104606: transform48 4
+    104608: transform49 4
+    104610: transform5 18
+    104612: transform5 19
+    104614: transform5 20
+    104616: transform5 21
+    104618: transform50 5
+    104620: transform51 3
+    104622: transform52 3
+    104624: transform53 2
+    104626: transform54 2
+    104628: transform55 2
+    104630: transform56 2
+    104632: transform57 2
+    104634: transform58 2
+    104636: transform59 2
+    104638: transform6 17
+    104640: transform6 18
+    104642: transform6 19
+    104644: transform6 20
+    104646: transform60 3
+    104648: transform61 3
+    104650: transform62 3
+    104652: transform63 3
+    104654: transform64 3
+    104656: transform65 3
+    104658: transform66 3
+    104660: transform67 3
+    104662: transform68 3
+    104664: transform69 3
+    104666: transform7 17
+    104668: transform7 18
+    104670: transform7 19
+    104672: transform7 20
+    104674: transform70 3
+    104676: transform71 3
+    104678: transform72 3
+    104680: transform73 3
+    104682: transform74 3
+    104684: transform75 3
+    104686: transform76 3
+    104688: transform77 3
+    104690: transform78 3
+    104692: transform79 3
+    104694: transform8 17
+    104696: transform8 18
+    104698: transform8 19
+    104700: transform8 20
+    104702: transform80 3
+    104704: transform81 3
+    104706: transform82 3
+    104708: transform83 3
+    104710: transform84 3
+    104712: transform85 3
+    104714: transform86 3
+    104716: transform87 2
+    104718: transform88 2
+    104720: transform89 2
+    104722: transform9 17
+    104724: transform9 18
+    104726: transform9 19
+    104728: transform9 20
+    104730: transform90 2
+    104732: transform91 2
+    104734: transform92 2
+    104736: transform93 2
+    104738: transform94 2
+    104740: transform95 2
+    104742: transform96 2
+    104744: transform97 2
+    104746: transform98 2
+    104748: transform99 2
+    104750: dartshop
+    104752: newdart_pCube10
+    104754: newdart_pCube2
+    104756: newdart_pCube3
+    104758: newdart_pCube4
+    104760: newdart_pCube5
+    104762: newdart_pCube6
+    104764: newdart_pCube7
+    104766: newdart_pCube8
+    104768: newdart_pCube9
+    400000: //RootNode
+    400002: group
+    400004: group 1
+    400006: group1
+    400008: group2
+    400010: group41
+    400012: group42
+    400014: group43
+    400016: group44
+    400018: group45
+    400020: group46
+    400022: IceCreamTank_2:group41
+    400024: IceCreamTank_2:pCylinder1
+    400026: IceCreamTank_2:pCylinder24
+    400028: IceCreamTank_2:pCylinder26
+    400030: IceCreamTank_2:pCylinder27
+    400032: IceCreamTank_2:pCylinder28
+    400034: IceCreamTank_2:pCylinder29
+    400036: IceCreamTank_2:pCylinder30
+    400038: IceCreamTank_2:pCylinder31
+    400040: IceCreamTank_2:pCylinder32
+    400042: IceCreamTank_2:pCylinder33
+    400044: IceCreamTank_2:pCylinder34
+    400046: IceCreamTank_2:pCylinder36
+    400048: IceCreamTank_2:polySurface1
+    400050: IceCreamTank_2:polySurface2
+    400052: IceCreamTank_2:polySurface34
+    400054: IceCreamTank_2:polySurface35
+    400056: IceCreamTank_2:polySurface36
+    400058: IceCreamTank_2:polySurface36 1
+    400060: IceCreamTank_2:polySurface37
+    400062: IceCreamTank_2:polySurface38
+    400064: IceCreamTank_2:polySurface39
+    400066: IceCreamTank_2:pPlane1
+    400068: IceCreamTank_2:pTorus2
+    400070: IceCreamTank_2:pTorus2 1
+    400072: IceCreamTank_2:pTorus3
+    400074: IceCreamTank_2:transform1
+    400076: IceCreamTank_2:transform2
+    400078: IceCreamTank_2:transform3
+    400080: IceCreamTank_2:transform4
+    400082: IceCreamTank_2:transform46
+    400084: IceCreamTank_2:transform47
+    400086: IceCreamTank_2:transform48
+    400088: IceCreamTank_2:transform49
+    400090: IceCreamTank_2:transform5
+    400092: IceCreamTank_2:transform50
+    400094: IceCreamTank_2:transform51
+    400096: IceCreamTank_2:transform52
+    400098: IceCreamTank_2:transform53
+    400100: IceCreamTank_2:transform54
+    400102: IceCreamTank_2:transform55
+    400104: IceCreamTank_2:transform56
+    400106: IceCreamTank_2:transform57
+    400108: IceCreamTank_2:transform58
+    400110: IceCreamTank_2:transform59
+    400112: IceCreamTank_2:transform60
+    400114: IceCreamTank_2:transform61
+    400116: IceCreamTank_2:transform62
+    400118: IceCreamTank_2:transform63
+    400120: IceCreamTank_2:transform64
+    400122: IceCreamTank_2:transform65
+    400124: IceCreamTank_3:pCylinder25
+    400126: IceCreamTank_3:pCylinder35
+    400128: IceCreamTank_3:pCylinder37
+    400130: IceCreamTank_3:polySurface37
+    400132: IceCreamTank_3:pSphere1
+    400134: icee:pCube7
+    400136: pasted__pCube46_3
+    400138: pasted__pCube49
+    400140: pasted__pCube50_2
+    400142: pasted__pCube50_3
+    400144: pasted__pCube51_1
+    400146: pasted__pCylinder105
+    400148: pasted__pCylinder44
+    400150: pasted__pSphere1
+    400152: pasted__pSphere10
+    400154: pasted__pSphere11
+    400156: pasted__pSphere12
+    400158: pasted__pSphere13
+    400160: pasted__pSphere14
+    400162: pasted__pSphere15
+    400164: pasted__pSphere16
+    400166: pasted__pSphere17
+    400168: pasted__pSphere18
+    400170: pasted__pSphere19
+    400172: pasted__pSphere2
+    400174: pasted__pSphere20
+    400176: pasted__pSphere21
+    400178: pasted__pSphere22
+    400180: pasted__pSphere23
+    400182: pasted__pSphere24
+    400184: pasted__pSphere25
+    400186: pasted__pSphere26
+    400188: pasted__pSphere27
+    400190: pasted__pSphere28
+    400192: pasted__pSphere29
+    400194: pasted__pSphere3
+    400196: pasted__pSphere30
+    400198: pasted__pSphere31
+    400200: pasted__pSphere32
+    400202: pasted__pSphere33
+    400204: pasted__pSphere34
+    400206: pasted__pSphere35
+    400208: pasted__pSphere36
+    400210: pasted__pSphere37
+    400212: pasted__pSphere39
+    400214: pasted__pSphere4
+    400216: pasted__pSphere40
+    400218: pasted__pSphere41
+    400220: pasted__pSphere5
+    400222: pasted__pSphere6
+    400224: pasted__pSphere7
+    400226: pasted__pSphere8
+    400228: pasted__pSphere9
+    400230: pCube1
+    400232: pCube24
+    400234: pCylinder1
+    400236: pCylinder25
+    400238: pCylinder25 1
+    400240: pCylinder25 2
+    400242: pCylinder35
+    400244: pCylinder36
+    400246: pCylinder37
+    400248: polySurface1
+    400250: polySurface10
+    400252: polySurface11
+    400254: polySurface115
+    400256: polySurface119
+    400258: polySurface12
+    400260: polySurface120
+    400262: polySurface121
+    400264: polySurface122
+    400266: polySurface123
+    400268: polySurface124
+    400270: polySurface125
+    400272: polySurface126
+    400274: polySurface127
+    400276: polySurface128
+    400278: polySurface129
+    400280: polySurface13
+    400282: polySurface130
+    400284: polySurface131
+    400286: polySurface132
+    400288: polySurface133
+    400290: polySurface134
+    400292: polySurface135
+    400294: polySurface136
+    400296: polySurface137
+    400298: polySurface138
+    400300: polySurface139
+    400302: polySurface14
+    400304: polySurface140
+    400306: polySurface141
+    400308: polySurface142
+    400310: polySurface143
+    400312: polySurface144
+    400314: polySurface145
+    400316: polySurface146
+    400318: polySurface147
+    400320: polySurface148
+    400322: polySurface149
+    400324: polySurface15
+    400326: polySurface150
+    400328: polySurface151
+    400330: polySurface152
+    400332: polySurface153
+    400334: polySurface154
+    400336: polySurface155
+    400338: polySurface156
+    400340: polySurface157
+    400342: polySurface158
+    400344: polySurface16
+    400346: polySurface17
+    400348: polySurface171
+    400350: polySurface173
+    400352: polySurface174
+    400354: polySurface18
+    400356: polySurface19
+    400358: polySurface20
+    400360: polySurface21
+    400362: polySurface22
+    400364: polySurface23
+    400366: polySurface24
+    400368: polySurface25
+    400370: polySurface26
+    400372: polySurface27
+    400374: polySurface28
+    400376: polySurface29
+    400378: polySurface30
+    400380: polySurface31
+    400382: polySurface35
+    400384: polySurface36
+    400386: polySurface37
+    400388: polySurface38
+    400390: polySurface8
+    400392: polySurface9
+    400394: pPlane1
+    400396: Prob:group
+    400398: Prob:group1
+    400400: Prob:group2
+    400402: Prob:group3
+    400404: Prob:group4
+    400406: Prob:pasted__group
+    400408: Prob:pasted__group 1
+    400410: Prob:pasted__group20
+    400412: Prob:pasted__group26
+    400414: Prob:pasted__group30
+    400416: Prob:pasted__group40
+    400418: Prob:pasted__group41
+    400420: Prob:pasted__group42
+    400422: Prob:pasted__pasted__pPipe1
+    400424: Prob:pasted__polySurface2
+    400426: Prob:pCylinder1
+    400428: Prob:pCylinder10
+    400430: Prob:pCylinder17
+    400432: Prob:pCylinder3
+    400434: pTorus2
+    400436: pTorus3
+    400438: SaiFire:group
+    400440: SaiFire:pasted__pCylinder105
+    400442: SaiFire:pasted__pSphere1
+    400444: SaiFire:pasted__pSphere10
+    400446: SaiFire:pasted__pSphere11
+    400448: SaiFire:pasted__pSphere12
+    400450: SaiFire:pasted__pSphere13
+    400452: SaiFire:pasted__pSphere14
+    400454: SaiFire:pasted__pSphere15
+    400456: SaiFire:pasted__pSphere16
+    400458: SaiFire:pasted__pSphere17
+    400460: SaiFire:pasted__pSphere18
+    400462: SaiFire:pasted__pSphere19
+    400464: SaiFire:pasted__pSphere2
+    400466: SaiFire:pasted__pSphere20
+    400468: SaiFire:pasted__pSphere21
+    400470: SaiFire:pasted__pSphere22
+    400472: SaiFire:pasted__pSphere23
+    400474: SaiFire:pasted__pSphere24
+    400476: SaiFire:pasted__pSphere25
+    400478: SaiFire:pasted__pSphere26
+    400480: SaiFire:pasted__pSphere27
+    400482: SaiFire:pasted__pSphere28
+    400484: SaiFire:pasted__pSphere29
+    400486: SaiFire:pasted__pSphere3
+    400488: SaiFire:pasted__pSphere30
+    400490: SaiFire:pasted__pSphere31
+    400492: SaiFire:pasted__pSphere32
+    400494: SaiFire:pasted__pSphere33
+    400496: SaiFire:pasted__pSphere34
+    400498: SaiFire:pasted__pSphere35
+    400500: SaiFire:pasted__pSphere36
+    400502: SaiFire:pasted__pSphere37
+    400504: SaiFire:pasted__pSphere39
+    400506: SaiFire:pasted__pSphere4
+    400508: SaiFire:pasted__pSphere40
+    400510: SaiFire:pasted__pSphere41
+    400512: SaiFire:pasted__pSphere5
+    400514: SaiFire:pasted__pSphere6
+    400516: SaiFire:pasted__pSphere7
+    400518: SaiFire:pasted__pSphere8
+    400520: SaiFire:pasted__pSphere9
+    400522: Sum:group
+    400524: Sum:group 1
+    400526: Sum:group1
+    400528: Sum:group2
+    400530: Sum:group36
+    400532: Sum:group37
+    400534: Sum:group39
+    400536: Sum:group40
+    400538: Sum:group41
+    400540: Sum:group42
+    400542: Sum:group43
+    400544: Sum:group44
+    400546: Sum:group45
+    400548: Sum:group46
+    400550: Sum:group47
+    400552: Sum:group48
+    400554: Sum:group49
+    400556: Sum:pasted__pCylinder1
+    400558: Sum:pasted__pCylinder10
+    400560: Sum:pasted__pCylinder15
+    400562: Sum:pasted__pCylinder19
+    400564: Sum:pasted__pCylinder2
+    400566: Sum:pasted__pCylinder20
+    400568: Sum:pasted__pCylinder21
+    400570: Sum:pasted__pCylinder3
+    400572: Sum:pasted__pCylinder4
+    400574: Sum:pasted__pCylinder5
+    400576: Sum:pasted__pCylinder6
+    400578: Sum:pasted__pCylinder7
+    400580: Sum:pasted__pCylinder8
+    400582: Sum:pasted__pCylinder9
+    400584: Sum:pasted__pPipe1
+    400586: Sum:pasted__pTorus1
+    400588: Sum:pasted__pTorus2
+    400590: Sum:pasted__pTorus3
+    400592: Sum:pasted__pTorus4
+    400594: Sum:pCube12
+    400596: Sum:pCube13
+    400598: Sum:pCube14
+    400600: Sum:pCube15
+    400602: Sum:pCube17
+    400604: Sum:pCube18
+    400606: Sum:pCube19
+    400608: Sum:pCube2
+    400610: Sum:pCube20
+    400612: Sum:pCube21
+    400614: Sum:pCube22
+    400616: Sum:pCube5
+    400618: Sum:pCylinder1
+    400620: Sum:pCylinder26
+    400622: Sum:pCylinder27
+    400624: Sum:pCylinder28
+    400626: Sum:pCylinder29
+    400628: Sum:pCylinder30
+    400630: Sum:pCylinder31
+    400632: Sum:pCylinder32
+    400634: Sum:polySurface1
+    400636: Sum:polySurface10
+    400638: Sum:polySurface11
+    400640: Sum:polySurface12
+    400642: Sum:polySurface13
+    400644: Sum:polySurface14
+    400646: Sum:polySurface15
+    400648: Sum:polySurface16
+    400650: Sum:polySurface17
+    400652: Sum:polySurface18
+    400654: Sum:polySurface19
+    400656: Sum:polySurface20
+    400658: Sum:polySurface21
+    400660: Sum:polySurface22
+    400662: Sum:polySurface23
+    400664: Sum:polySurface24
+    400666: Sum:polySurface25
+    400668: Sum:polySurface26
+    400670: Sum:polySurface27
+    400672: Sum:polySurface28
+    400674: Sum:polySurface29
+    400676: Sum:polySurface30
+    400678: Sum:polySurface31
+    400680: Sum:polySurface33
+    400682: Sum:polySurface36
+    400684: Sum:polySurface37
+    400686: Sum:polySurface38
+    400688: Sum:polySurface39
+    400690: Sum:polySurface4
+    400692: Sum:polySurface40
+    400694: Sum:polySurface41
+    400696: Sum:polySurface42
+    400698: Sum:polySurface43
+    400700: Sum:polySurface44
+    400702: Sum:polySurface45
+    400704: Sum:polySurface47
+    400706: Sum:polySurface48
+    400708: Sum:polySurface49
+    400710: Sum:polySurface50
+    400712: Sum:polySurface51
+    400714: Sum:polySurface52
+    400716: Sum:polySurface53
+    400718: Sum:polySurface54
+    400720: Sum:polySurface55
+    400722: Sum:polySurface56
+    400724: Sum:polySurface57
+    400726: Sum:polySurface8
+    400728: Sum:polySurface9
+    400730: Sum:polySurface9 1
+    400732: Sum:pPlane1
+    400734: Sum:Prob:group
+    400736: Sum:Prob:group1
+    400738: Sum:Prob:group2
+    400740: Sum:Prob:group3
+    400742: Sum:Prob:group4
+    400744: Sum:Prob:pasted__group
+    400746: Sum:Prob:pasted__group 1
+    400748: Sum:Prob:pasted__group20
+    400750: Sum:Prob:pasted__group26
+    400752: Sum:Prob:pasted__group30
+    400754: Sum:Prob:pasted__group40
+    400756: Sum:Prob:pasted__group41
+    400758: Sum:Prob:pasted__group42
+    400760: Sum:Prob:pasted__pasted__pPipe1
+    400762: Sum:Prob:pasted__pCylinder19
+    400764: Sum:Prob:pasted__pCylinder20
+    400766: Sum:Prob:pasted__pCylinder21
+    400768: Sum:Prob:pasted__pCylinder22
+    400770: Sum:Prob:pasted__pCylinder23
+    400772: Sum:Prob:pasted__pCylinder5
+    400774: Sum:Prob:pasted__polySurface2
+    400776: Sum:Prob:pCylinder1
+    400778: Sum:Prob:pCylinder10
+    400780: Sum:Prob:pCylinder17
+    400782: Sum:Prob:pCylinder3
+    400784: Sum:Prob:pCylinder5
+    400786: Sum:pTorus2
+    400788: Sum:pTorus3
+    400790: Sum:transform1
+    400792: Sum:transform10
+    400794: Sum:transform100
+    400796: Sum:transform101
+    400798: Sum:transform102
+    400800: Sum:transform11
+    400802: Sum:transform12
+    400804: Sum:transform13
+    400806: Sum:transform14
+    400808: Sum:transform15
+    400810: Sum:transform16
+    400812: Sum:transform17
+    400814: Sum:transform18
+    400816: Sum:transform19
+    400818: Sum:transform2
+    400820: Sum:transform20
+    400822: Sum:transform21
+    400824: Sum:transform22
+    400826: Sum:transform23
+    400828: Sum:transform24
+    400830: Sum:transform25
+    400832: Sum:transform26
+    400834: Sum:transform27
+    400836: Sum:transform28
+    400838: Sum:transform29
+    400840: Sum:transform3
+    400842: Sum:transform30
+    400844: Sum:transform31
+    400846: Sum:transform32
+    400848: Sum:transform33
+    400850: Sum:transform34
+    400852: Sum:transform35
+    400854: Sum:transform36
+    400856: Sum:transform37
+    400858: Sum:transform38
+    400860: Sum:transform39
+    400862: Sum:transform4
+    400864: Sum:transform40
+    400866: Sum:transform41
+    400868: Sum:transform42
+    400870: Sum:transform43
+    400872: Sum:transform44
+    400874: Sum:transform45
+    400876: Sum:transform46
+    400878: Sum:transform47
+    400880: Sum:transform48
+    400882: Sum:transform49
+    400884: Sum:transform5
+    400886: Sum:transform50
+    400888: Sum:transform51
+    400890: Sum:transform52
+    400892: Sum:transform53
+    400894: Sum:transform54
+    400896: Sum:transform55
+    400898: Sum:transform56
+    400900: Sum:transform57
+    400902: Sum:transform58
+    400904: Sum:transform59
+    400906: Sum:transform6
+    400908: Sum:transform60
+    400910: Sum:transform61
+    400912: Sum:transform62
+    400914: Sum:transform63
+    400916: Sum:transform64
+    400918: Sum:transform65
+    400920: Sum:transform66
+    400922: Sum:transform67
+    400924: Sum:transform68
+    400926: Sum:transform69
+    400928: Sum:transform7
+    400930: Sum:transform70
+    400932: Sum:transform71
+    400934: Sum:transform72
+    400936: Sum:transform73
+    400938: Sum:transform74
+    400940: Sum:transform75
+    400942: Sum:transform76
+    400944: Sum:transform77
+    400946: Sum:transform78
+    400948: Sum:transform79
+    400950: Sum:transform8
+    400952: Sum:transform80
+    400954: Sum:transform81
+    400956: Sum:transform82
+    400958: Sum:transform83
+    400960: Sum:transform84
+    400962: Sum:transform85
+    400964: Sum:transform86
+    400966: Sum:transform87
+    400968: Sum:transform88
+    400970: Sum:transform89
+    400972: Sum:transform9
+    400974: Sum:transform90
+    400976: Sum:transform91
+    400978: Sum:transform92
+    400980: Sum:transform93
+    400982: Sum:transform94
+    400984: Sum:transform95
+    400986: Sum:transform96
+    400988: Sum:transform97
+    400990: Sum:transform98
+    400992: Sum:transform99
+    400994: transform1
+    400996: transform18
+    400998: transform19
+    401000: transform2
+    401002: transform20
+    401004: transform21
+    401006: transform22
+    401008: transform23
+    401010: transform24
+    401012: transform25
+    401014: transform26
+    401016: transform27
+    401018: transform28
+    401020: transform29
+    401022: transform3
+    401024: transform30
+    401026: transform31
+    401028: transform32
+    401030: transform33
+    401032: transform34
+    401034: transform35
+    401036: transform36
+    401038: transform37
+    401040: transform38
+    401042: transform39
+    401044: transform4
+    401046: transform40
+    401048: transform41
+    401050: transform42
+    401052: transform43
+    401054: transform44
+    401056: transform45
+    401058: transform46
+    401060: transform5
+    401062: transform50
+    401064: transform51
+    401066: transform52
+    401068: transform60
+    401070: transform61
+    401072: transform62
+    401074: transform63
+    401076: transform64
+    401078: transform65
+    401080: transform66
+    401082: transform67
+    401084: transform68
+    401086: transform69
+    401088: transform70
+    401090: transform71
+    401092: transform72
+    401094: transform73
+    401096: transform74
+    401098: transform75
+    401100: transform76
+    401102: transform77
+    401104: transform78
+    401106: transform79
+    401108: transform80
+    401110: transform81
+    401112: transform82
+    401114: transform83
+    401116: transform84
+    401118: transform85
+    401120: transform86
+    401122: chinping
+    401124: floor
+    401126: ice
+    401128: jedi
+    401130: left_shop
+    401132: main_shop
+    401134: pCylinder38
+    401136: pCylinder39
+    401138: right_shop
+    401140: somtum
+    401142: temple_2D
+    401144: wall
+    401146: wall_temple
+    401148: ALL_Model
+    401150: back
+    401152: balloon_pCube1
+    401154: balloon_pCube2
+    401156: balloon_pCylinder1
+    401158: balloon_pCylinder2
+    401160: balloon_pCylinder3
+    401162: balloon_pCylinder4
+    401164: balloon_pCylinder5
+    401166: balloon_pCylinder6
+    401168: balloon_pCylinder7
+    401170: balloon_pCylinder8
+    401172: balloon_polySurface1
+    401174: balloon_pSphere1
+    401176: balloon_pSphere2
+    401178: balloon_pSphere3
+    401180: balloon_pSphere4
+    401182: balloon_pSphere5
+    401184: camera1
+    401186: chair_pCube1
+    401188: chair_pCube10
+    401190: chair_pCube2
+    401192: chair_pCube3
+    401194: chair_pCube6
+    401196: chair_pCube7
+    401198: chair_pCube8
+    401200: chair_pCube9
+    401202: chair_pCylinder1
+    401204: chair_pCylinder2
+    401206: chair_pCylinder3
+    401208: chair_pCylinder4
+    401210: CoreGame_Obj_pCube1
+    401212: CoreGame_Obj_pCube10
+    401214: CoreGame_Obj_pCube2
+    401216: CoreGame_Obj_pCube3
+    401218: CoreGame_Obj_pCube4
+    401220: CoreGame_Obj_pCube5
+    401222: CoreGame_Obj_pCube6
+    401224: CoreGame_Obj_pCube7
+    401226: CoreGame_Obj_pCube8
+    401228: CoreGame_Obj_pCube9
+    401230: CoreGame_Obj_polySurface13
+    401232: CoreGame_Obj_polySurface2
+    401234: CoreGame_Obj_polySurface3
+    401236: CoreGame_Obj_pPlane1
+    401238: CoreGame_Obj_pPlane2
+    401240: fall_pCube2
+    401242: fall_pCube3
+    401244: fall_pCylinder1
+    401246: fall_pSphere1
+    401248: fall_pSphere2
+    401250: fall_pSphere3
+    401252: fall_pSphere4
+    401254: fall_pSphere5
+    401256: fall_pSphere6
+    401258: group3
+    401260: HitTheTincan_pCube10
+    401262: HitTheTincan_pCube11
+    401264: HitTheTincan_pCube2
+    401266: HitTheTincan_pCube3
+    401268: left
+    401270: pasted__pCylinder8
+    401272: pasted__pCylinder8 1
+    401274: pasted__polySurface10
+    401276: pasted__polySurface10 1
+    401278: pasted__polySurface10 2
+    401280: pasted__polySurface10 3
+    401282: pasted__polySurface10 4
+    401284: pasted__polySurface10 5
+    401286: pasted__pPipe43
+    401288: pasted__pPipe43 1
+    401290: pasted__pPipe44
+    401292: pasted__pPipe44 1
+    401294: pasted__pPipe45
+    401296: pasted__pPipe45 1
+    401298: pasted__pPipe46
+    401300: pasted__pPipe46 1
+    401302: pasted__pPipe47
+    401304: pasted__pPipe47 1
+    401306: pasted__pPipe48
+    401308: pasted__pPipe48 1
+    401310: pasted__pPipe49
+    401312: pasted__pPipe49 1
+    401314: pasted__pPipe50
+    401316: pasted__pPipe50 1
+    401318: pasted__pPipe51
+    401320: pasted__pPipe51 1
+    401322: pasted__pPipe52
+    401324: pasted__pPipe52 1
+    401326: pasted__pPipe53
+    401328: pasted__pPipe53 1
+    401330: pasted__pPipe54
+    401332: pasted__pPipe54 1
+    401334: pCube10
+    401336: pCube11
+    401338: pCube12
+    401340: pCube2
+    401342: pCube3
+    401344: pCube4
+    401346: pCube5
+    401348: pCube6
+    401350: pCube7
+    401352: pCube8
+    401354: pCube9
+    401356: pCylinder10
+    401358: pCylinder11
+    401360: pCylinder12
+    401362: pCylinder13
+    401364: pCylinder14
+    401366: pCylinder15
+    401368: pCylinder16
+    401370: pCylinder17
+    401372: pCylinder18
+    401374: pCylinder19
+    401376: pCylinder2
+    401378: pCylinder20
+    401380: pCylinder21
+    401382: pCylinder22
+    401384: pCylinder23
+    401386: pCylinder24
+    401388: pCylinder26
+    401390: pCylinder27
+    401392: pCylinder28
+    401394: pCylinder29
+    401396: pCylinder3
+    401398: pCylinder30
+    401400: pCylinder31
+    401402: pCylinder32
+    401404: pCylinder33
+    401406: pCylinder34
+    401408: pCylinder4
+    401410: pCylinder40
+    401412: pCylinder5
+    401414: pCylinder6
+    401416: pCylinder7
+    401418: pCylinder8
+    401420: pCylinder9
+    401422: polySurface1 1
+    401424: polySurface1 2
+    401426: polySurface1 3
+    401428: polySurface1 4
+    401430: polySurface10 1
+    401432: polySurface10 2
+    401434: polySurface12 1
+    401436: polySurface12 2
+    401438: polySurface12 3
+    401440: polySurface12 4
+    401442: polySurface14 1
+    401444: polySurface14 2
+    401446: polySurface15 1
+    401448: polySurface15 2
+    401450: polySurface16 1
+    401452: polySurface16 2
+    401454: polySurface17 1
+    401456: polySurface17 2
+    401458: polySurface18 1
+    401460: polySurface18 2
+    401462: polySurface19 1
+    401464: polySurface19 2
+    401466: polySurface2
+    401468: polySurface2 1
+    401470: polySurface2 2
+    401472: polySurface2 3
+    401474: polySurface2 4
+    401476: polySurface2 5
+    401478: polySurface2 6
+    401480: polySurface2 7
+    401482: polySurface20 1
+    401484: polySurface20 2
+    401486: polySurface21 1
+    401488: polySurface21 2
+    401490: polySurface22 1
+    401492: polySurface22 2
+    401494: polySurface24 1
+    401496: polySurface24 2
+    401498: polySurface25 1
+    401500: polySurface25 2
+    401502: polySurface26 1
+    401504: polySurface26 2
+    401506: polySurface27 1
+    401508: polySurface27 2
+    401510: polySurface28 1
+    401512: polySurface28 2
+    401514: polySurface29 1
+    401516: polySurface29 2
+    401518: polySurface3
+    401520: polySurface3 1
+    401522: polySurface3 2
+    401524: polySurface3 3
+    401526: polySurface3 4
+    401528: polySurface3 5
+    401530: polySurface30 1
+    401532: polySurface30 2
+    401534: polySurface31 1
+    401536: polySurface31 2
+    401538: polySurface32
+    401540: polySurface32 1
+    401542: polySurface33
+    401544: polySurface33 1
+    401546: polySurface34
+    401548: polySurface34 1
+    401550: polySurface35 1
+    401552: polySurface35 2
+    401554: polySurface36 1
+    401556: polySurface36 2
+    401558: polySurface37 1
+    401560: polySurface37 2
+    401562: polySurface38 1
+    401564: polySurface38 2
+    401566: polySurface39
+    401568: polySurface39 1
+    401570: polySurface4
+    401572: polySurface4 1
+    401574: polySurface4 2
+    401576: polySurface4 3
+    401578: polySurface4 4
+    401580: polySurface4 5
+    401582: polySurface40
+    401584: polySurface40 1
+    401586: polySurface41
+    401588: polySurface41 1
+    401590: polySurface42
+    401592: polySurface42 1
+    401594: polySurface42 2
+    401596: polySurface43
+    401598: polySurface43 1
+    401600: polySurface44
+    401602: polySurface44 1
+    401604: polySurface45
+    401606: polySurface45 1
+    401608: polySurface46
+    401610: polySurface46 1
+    401612: polySurface47
+    401614: polySurface47 1
+    401616: polySurface48
+    401618: polySurface48 1
+    401620: polySurface49
+    401622: polySurface49 1
+    401624: polySurface5
+    401626: polySurface5 1
+    401628: polySurface5 2
+    401630: polySurface5 3
+    401632: polySurface5 4
+    401634: polySurface5 5
+    401636: polySurface50
+    401638: polySurface50 1
+    401640: polySurface51
+    401642: polySurface51 1
+    401644: polySurface52
+    401646: polySurface52 1
+    401648: polySurface53
+    401650: polySurface53 1
+    401652: polySurface54
+    401654: polySurface54 1
+    401656: polySurface55
+    401658: polySurface55 1
+    401660: polySurface56
+    401662: polySurface56 1
+    401664: polySurface57
+    401666: polySurface57 1
+    401668: polySurface58
+    401670: polySurface58 1
+    401672: polySurface59
+    401674: polySurface59 1
+    401676: polySurface6
+    401678: polySurface6 1
+    401680: polySurface6 2
+    401682: polySurface6 3
+    401684: polySurface60
+    401686: polySurface60 1
+    401688: polySurface61
+    401690: polySurface61 1
+    401692: polySurface62
+    401694: polySurface62 1
+    401696: polySurface63
+    401698: polySurface63 1
+    401700: polySurface64
+    401702: polySurface64 1
+    401704: polySurface65
+    401706: polySurface65 1
+    401708: polySurface66
+    401710: polySurface66 1
+    401712: polySurface67
+    401714: polySurface67 1
+    401716: polySurface68
+    401718: polySurface68 1
+    401720: polySurface69
+    401722: polySurface69 1
+    401724: polySurface7
+    401726: polySurface7 1
+    401728: polySurface7 2
+    401730: polySurface70
+    401732: polySurface70 1
+    401734: polySurface71
+    401736: polySurface71 1
+    401738: polySurface72
+    401740: polySurface72 1
+    401742: polySurface73
+    401744: polySurface73 1
+    401746: polySurface74
+    401748: polySurface75
+    401750: polySurface76
+    401752: polySurface77
+    401754: polySurface78
+    401756: polySurface79
+    401758: polySurface8 1
+    401760: polySurface8 2
+    401762: polySurface8 3
+    401764: polySurface8 4
+    401766: polySurface80
+    401768: polySurface81
+    401770: polySurface82
+    401772: polySurface83
+    401774: polySurface84
+    401776: polySurface85
+    401778: polySurface86
+    401780: polySurface87
+    401782: polySurface88
+    401784: polySurface89
+    401786: polySurface9 1
+    401788: polySurface9 2
+    401790: polySurface9 3
+    401792: polySurface90
+    401794: pPipe1
+    401796: pPipe10
+    401798: pPipe11
+    401800: pPipe12
+    401802: pPipe13
+    401804: pPipe14
+    401806: pPipe15
+    401808: pPipe16
+    401810: pPipe17
+    401812: pPipe18
+    401814: pPipe19
+    401816: pPipe2
+    401818: pPipe20
+    401820: pPipe21
+    401822: pPipe22
+    401824: pPipe23
+    401826: pPipe24
+    401828: pPipe25
+    401830: pPipe26
+    401832: pPipe27
+    401834: pPipe28
+    401836: pPipe29
+    401838: pPipe3
+    401840: pPipe30
+    401842: pPipe4
+    401844: pPipe43
+    401846: pPipe44
+    401848: pPipe45
+    401850: pPipe46
+    401852: pPipe47
+    401854: pPipe48
+    401856: pPipe49
+    401858: pPipe5
+    401860: pPipe50
+    401862: pPipe51
+    401864: pPipe52
+    401866: pPipe53
+    401868: pPipe54
+    401870: pPipe55
+    401872: pPipe56
+    401874: pPipe6
+    401876: pPipe7
+    401878: pPipe8
+    401880: pPipe9
+    401882: pPlane3
+    401884: pPlane4
+    401886: pPlane5
+    401888: pPlane6
+    401890: pPlane7
+    401892: pPlane8
+    401894: pSphere1
+    401896: pSphere2
+    401898: pSphere3
+    401900: pSphere4
+    401902: pSphere5
+    401904: pSphere6
+    401906: pSphere7
+    401908: SaiFire1:pasted__pCylinder105
+    401910: SaiFire1:pasted__pSphere1
+    401912: SaiFire1:pasted__pSphere10
+    401914: SaiFire1:pasted__pSphere11
+    401916: SaiFire1:pasted__pSphere12
+    401918: SaiFire1:pasted__pSphere13
+    401920: SaiFire1:pasted__pSphere14
+    401922: SaiFire1:pasted__pSphere15
+    401924: SaiFire1:pasted__pSphere16
+    401926: SaiFire1:pasted__pSphere17
+    401928: SaiFire1:pasted__pSphere18
+    401930: SaiFire1:pasted__pSphere19
+    401932: SaiFire1:pasted__pSphere2
+    401934: SaiFire1:pasted__pSphere20
+    401936: SaiFire1:pasted__pSphere21
+    401938: SaiFire1:pasted__pSphere22
+    401940: SaiFire1:pasted__pSphere23
+    401942: SaiFire1:pasted__pSphere24
+    401944: SaiFire1:pasted__pSphere25
+    401946: SaiFire1:pasted__pSphere26
+    401948: SaiFire1:pasted__pSphere27
+    401950: SaiFire1:pasted__pSphere28
+    401952: SaiFire1:pasted__pSphere29
+    401954: SaiFire1:pasted__pSphere3
+    401956: SaiFire1:pasted__pSphere30
+    401958: SaiFire1:pasted__pSphere31
+    401960: SaiFire1:pasted__pSphere32
+    401962: SaiFire1:pasted__pSphere33
+    401964: SaiFire1:pasted__pSphere34
+    401966: SaiFire1:pasted__pSphere35
+    401968: SaiFire1:pasted__pSphere36
+    401970: SaiFire1:pasted__pSphere37
+    401972: SaiFire1:pasted__pSphere39
+    401974: SaiFire1:pasted__pSphere4
+    401976: SaiFire1:pasted__pSphere40
+    401978: SaiFire1:pasted__pSphere41
+    401980: SaiFire1:pasted__pSphere5
+    401982: SaiFire1:pasted__pSphere6
+    401984: SaiFire1:pasted__pSphere7
+    401986: SaiFire1:pasted__pSphere8
+    401988: SaiFire1:pasted__pSphere9
+    401990: shop_pCube1
+    401992: shop_pCube2
+    401994: shop_pCube3
+    401996: shop_pCube4
+    401998: shop_pCube5
+    402000: shop_pCube6
+    402002: shop_pCube7
+    402004: shop_pCylinder3
+    402006: shop_pCylinder4
+    402008: shop_pCylinder5
+    402010: shop_pCylinder6
+    402012: shop_pCylinder8
+    402014: shop_polySurface1
+    402016: shop_polySurface2
+    402018: shop_pPipe1
+    402020: temple_mesh_ALL_Model
+    402022: temple_mesh_back
+    402024: temple_mesh_balloon_pCube1
+    402026: temple_mesh_balloon_pCylinder1
+    402028: temple_mesh_balloon_pCylinder2
+    402030: temple_mesh_balloon_pCylinder3
+    402032: temple_mesh_balloon_pCylinder4
+    402034: temple_mesh_balloon_pCylinder5
+    402036: temple_mesh_balloon_pCylinder6
+    402038: temple_mesh_balloon_pCylinder7
+    402040: temple_mesh_balloon_pCylinder8
+    402042: temple_mesh_balloon_polySurface1
+    402044: temple_mesh_balloon_pSphere1
+    402046: temple_mesh_balloon_pSphere2
+    402048: temple_mesh_balloon_pSphere3
+    402050: temple_mesh_balloon_pSphere4
+    402052: temple_mesh_balloon_pSphere5
+    402054: temple_mesh_chair_pCube1
+    402056: temple_mesh_chair_pCube2
+    402058: temple_mesh_chair_pCube3
+    402060: temple_mesh_chair_pCube6
+    402062: temple_mesh_chair_pCube7
+    402064: temple_mesh_chair_pCube8
+    402066: temple_mesh_chair_pCylinder1
+    402068: temple_mesh_chair_pCylinder2
+    402070: temple_mesh_chair_pCylinder3
+    402072: temple_mesh_chair_pCylinder4
+    402074: temple_mesh_fall_pCube2
+    402076: temple_mesh_fall_pCube3
+    402078: temple_mesh_fall_pCylinder1
+    402080: temple_mesh_fall_pSphere1
+    402082: temple_mesh_fall_pSphere2
+    402084: temple_mesh_fall_pSphere3
+    402086: temple_mesh_fall_pSphere4
+    402088: temple_mesh_fall_pSphere5
+    402090: temple_mesh_fall_pSphere6
+    402092: temple_mesh_group
+    402094: temple_mesh_group1
+    402096: temple_mesh_group2
+    402098: temple_mesh_group3
+    402100: temple_mesh_HitTheTincan_pCube10
+    402102: temple_mesh_HitTheTincan_pCube11
+    402104: temple_mesh_HitTheTincan_pCube2
+    402106: temple_mesh_HitTheTincan_pCube3
+    402108: temple_mesh_left
+    402110: temple_mesh_pCube1
+    402112: temple_mesh_pCube10
+    402114: temple_mesh_pCube2
+    402116: temple_mesh_pCube3
+    402118: temple_mesh_pCube4
+    402120: temple_mesh_pCube5
+    402122: temple_mesh_pCube6
+    402124: temple_mesh_pCube7
+    402126: temple_mesh_pCube8
+    402128: temple_mesh_pCube9
+    402130: temple_mesh_pCylinder1
+    402132: temple_mesh_pCylinder10
+    402134: temple_mesh_pCylinder11
+    402136: temple_mesh_pCylinder12
+    402138: temple_mesh_pCylinder13
+    402140: temple_mesh_pCylinder14
+    402142: temple_mesh_pCylinder15
+    402144: temple_mesh_pCylinder16
+    402146: temple_mesh_pCylinder17
+    402148: temple_mesh_pCylinder18
+    402150: temple_mesh_pCylinder19
+    402152: temple_mesh_pCylinder2
+    402154: temple_mesh_pCylinder20
+    402156: temple_mesh_pCylinder21
+    402158: temple_mesh_pCylinder22
+    402160: temple_mesh_pCylinder23
+    402162: temple_mesh_pCylinder24
+    402164: temple_mesh_pCylinder25
+    402166: temple_mesh_pCylinder26
+    402168: temple_mesh_pCylinder27
+    402170: temple_mesh_pCylinder28
+    402172: temple_mesh_pCylinder29
+    402174: temple_mesh_pCylinder3
+    402176: temple_mesh_pCylinder30
+    402178: temple_mesh_pCylinder31
+    402180: temple_mesh_pCylinder32
+    402182: temple_mesh_pCylinder33
+    402184: temple_mesh_pCylinder34
+    402186: temple_mesh_pCylinder35
+    402188: temple_mesh_pCylinder36
+    402190: temple_mesh_pCylinder37
+    402192: temple_mesh_pCylinder38
+    402194: temple_mesh_pCylinder39
+    402196: temple_mesh_pCylinder4
+    402198: temple_mesh_pCylinder40
+    402200: temple_mesh_pCylinder5
+    402202: temple_mesh_pCylinder6
+    402204: temple_mesh_pCylinder7
+    402206: temple_mesh_pCylinder8
+    402208: temple_mesh_pCylinder9
+    402210: temple_mesh_polySurface1
+    402212: temple_mesh_polySurface10
+    402214: temple_mesh_polySurface12
+    402216: temple_mesh_polySurface13
+    402218: temple_mesh_polySurface23
+    402220: temple_mesh_polySurface3
+    402222: temple_mesh_polySurface4
+    402224: temple_mesh_polySurface42
+    402226: temple_mesh_polySurface5
+    402228: temple_mesh_polySurface6
+    402230: temple_mesh_polySurface74
+    402232: temple_mesh_polySurface75
+    402234: temple_mesh_polySurface76
+    402236: temple_mesh_polySurface77
+    402238: temple_mesh_polySurface78
+    402240: temple_mesh_polySurface79
+    402242: temple_mesh_polySurface80
+    402244: temple_mesh_polySurface81
+    402246: temple_mesh_polySurface82
+    402248: temple_mesh_polySurface83
+    402250: temple_mesh_polySurface84
+    402252: temple_mesh_polySurface85
+    402254: temple_mesh_polySurface86
+    402256: temple_mesh_polySurface87
+    402258: temple_mesh_polySurface88
+    402260: temple_mesh_polySurface89
+    402262: temple_mesh_polySurface90
+    402264: temple_mesh_pPipe1
+    402266: temple_mesh_pPipe10
+    402268: temple_mesh_pPipe11
+    402270: temple_mesh_pPipe12
+    402272: temple_mesh_pPipe13
+    402274: temple_mesh_pPipe14
+    402276: temple_mesh_pPipe15
+    402278: temple_mesh_pPipe16
+    402280: temple_mesh_pPipe17
+    402282: temple_mesh_pPipe18
+    402284: temple_mesh_pPipe19
+    402286: temple_mesh_pPipe2
+    402288: temple_mesh_pPipe20
+    402290: temple_mesh_pPipe21
+    402292: temple_mesh_pPipe22
+    402294: temple_mesh_pPipe23
+    402296: temple_mesh_pPipe24
+    402298: temple_mesh_pPipe25
+    402300: temple_mesh_pPipe26
+    402302: temple_mesh_pPipe27
+    402304: temple_mesh_pPipe28
+    402306: temple_mesh_pPipe29
+    402308: temple_mesh_pPipe3
+    402310: temple_mesh_pPipe30
+    402312: temple_mesh_pPipe4
+    402314: temple_mesh_pPipe43
+    402316: temple_mesh_pPipe44
+    402318: temple_mesh_pPipe45
+    402320: temple_mesh_pPipe46
+    402322: temple_mesh_pPipe47
+    402324: temple_mesh_pPipe48
+    402326: temple_mesh_pPipe49
+    402328: temple_mesh_pPipe5
+    402330: temple_mesh_pPipe50
+    402332: temple_mesh_pPipe51
+    402334: temple_mesh_pPipe52
+    402336: temple_mesh_pPipe53
+    402338: temple_mesh_pPipe54
+    402340: temple_mesh_pPipe55
+    402342: temple_mesh_pPipe6
+    402344: temple_mesh_pPipe7
+    402346: temple_mesh_pPipe8
+    402348: temple_mesh_pPipe9
+    402350: temple_mesh_pPlane1
+    402352: temple_mesh_pPlane2
+    402354: temple_mesh_pPlane3
+    402356: temple_mesh_pPlane4
+    402358: temple_mesh_pPlane5
+    402360: temple_mesh_pPlane6
+    402362: temple_mesh_pPlane7
+    402364: temple_mesh_pPlane8
+    402366: temple_mesh_pSphere1
+    402368: temple_mesh_pSphere2
+    402370: temple_mesh_pSphere3
+    402372: temple_mesh_pSphere4
+    402374: temple_mesh_pSphere5
+    402376: temple_mesh_pSphere6
+    402378: temple_mesh_pSphere7
+    402380: temple_mesh_shop_pCube1
+    402382: temple_mesh_shop_pCube2
+    402384: temple_mesh_shop_pCube3
+    402386: temple_mesh_shop_pCube4
+    402388: temple_mesh_shop_pCube5
+    402390: temple_mesh_shop_pCube6
+    402392: temple_mesh_shop_pCylinder3
+    402394: temple_mesh_shop_pCylinder4
+    402396: temple_mesh_shop_pCylinder5
+    402398: temple_mesh_shop_pCylinder6
+    402400: temple_mesh_shop_pCylinder8
+    402402: temple_mesh_shop_polySurface1
+    402404: temple_mesh_shop_polySurface2
+    402406: temple_mesh_shop_pPipe1
+    402408: temple_mesh_watercar_pCube1
+    402410: temple_mesh_watercar_pCylinder1
+    402412: temple_mesh_watercar_pCylinder11
+    402414: temple_mesh_watercar_pCylinder12
+    402416: temple_mesh_watercar_pCylinder13
+    402418: temple_mesh_watercar_pCylinder14
+    402420: temple_mesh_watercar_pCylinder15
+    402422: temple_mesh_watercar_pCylinder2
+    402424: temple_mesh_watercar_pCylinder3
+    402426: temple_mesh_watercar_pCylinder6
+    402428: temple_mesh_watercar_pCylinder7
+    402430: transform1 1
+    402432: transform1 10
+    402434: transform1 11
+    402436: transform1 12
+    402438: transform1 13
+    402440: transform1 14
+    402442: transform1 15
+    402444: transform1 2
+    402446: transform1 3
+    402448: transform1 4
+    402450: transform1 5
+    402452: transform1 6
+    402454: transform1 7
+    402456: transform1 8
+    402458: transform1 9
+    402460: transform10
+    402462: transform10 1
+    402464: transform10 10
+    402466: transform10 11
+    402468: transform10 12
+    402470: transform10 2
+    402472: transform10 3
+    402474: transform10 4
+    402476: transform10 5
+    402478: transform10 6
+    402480: transform10 7
+    402482: transform10 8
+    402484: transform10 9
+    402486: transform100
+    402488: transform100 1
+    402490: transform101
+    402492: transform101 1
+    402494: transform102
+    402496: transform102 1
+    402498: transform103
+    402500: transform103 1
+    402502: transform104
+    402504: transform104 1
+    402506: transform105
+    402508: transform105 1
+    402510: transform106
+    402512: transform106 1
+    402514: transform107
+    402516: transform107 1
+    402518: transform108
+    402520: transform108 1
+    402522: transform109
+    402524: transform109 1
+    402526: transform11
+    402528: transform11 1
+    402530: transform11 10
+    402532: transform11 2
+    402534: transform11 3
+    402536: transform11 4
+    402538: transform11 5
+    402540: transform11 6
+    402542: transform11 7
+    402544: transform11 8
+    402546: transform11 9
+    402548: transform110
+    402550: transform110 1
+    402552: transform111
+    402554: transform111 1
+    402556: transform112
+    402558: transform112 1
+    402560: transform113
+    402562: transform113 1
+    402564: transform114
+    402566: transform114 1
+    402568: transform115
+    402570: transform115 1
+    402572: transform116
+    402574: transform116 1
+    402576: transform117
+    402578: transform117 1
+    402580: transform118
+    402582: transform118 1
+    402584: transform119
+    402586: transform119 1
+    402588: transform12
+    402590: transform12 1
+    402592: transform12 10
+    402594: transform12 2
+    402596: transform12 3
+    402598: transform12 4
+    402600: transform12 5
+    402602: transform12 6
+    402604: transform12 7
+    402606: transform12 8
+    402608: transform12 9
+    402610: transform120
+    402612: transform120 1
+    402614: transform121
+    402616: transform121 1
+    402618: transform122
+    402620: transform122 1
+    402622: transform123
+    402624: transform123 1
+    402626: transform124
+    402628: transform124 1
+    402630: transform125
+    402632: transform125 1
+    402634: transform126
+    402636: transform126 1
+    402638: transform127
+    402640: transform127 1
+    402642: transform128
+    402644: transform128 1
+    402646: transform129
+    402648: transform129 1
+    402650: transform13
+    402652: transform13 1
+    402654: transform13 2
+    402656: transform13 3
+    402658: transform13 4
+    402660: transform13 5
+    402662: transform13 6
+    402664: transform13 7
+    402666: transform13 8
+    402668: transform130
+    402670: transform130 1
+    402672: transform131
+    402674: transform131 1
+    402676: transform132
+    402678: transform132 1
+    402680: transform133
+    402682: transform133 1
+    402684: transform134
+    402686: transform134 1
+    402688: transform135
+    402690: transform135 1
+    402692: transform136
+    402694: transform136 1
+    402696: transform137
+    402698: transform137 1
+    402700: transform138
+    402702: transform138 1
+    402704: transform139
+    402706: transform139 1
+    402708: transform14
+    402710: transform14 1
+    402712: transform14 2
+    402714: transform14 3
+    402716: transform14 4
+    402718: transform14 5
+    402720: transform14 6
+    402722: transform14 7
+    402724: transform14 8
+    402726: transform140
+    402728: transform140 1
+    402730: transform141
+    402732: transform141 1
+    402734: transform142
+    402736: transform142 1
+    402738: transform143
+    402740: transform143 1
+    402742: transform144
+    402744: transform144 1
+    402746: transform145
+    402748: transform145 1
+    402750: transform146
+    402752: transform146 1
+    402754: transform147
+    402756: transform147 1
+    402758: transform148
+    402760: transform148 1
+    402762: transform149
+    402764: transform149 1
+    402766: transform15
+    402768: transform15 1
+    402770: transform15 2
+    402772: transform15 3
+    402774: transform15 4
+    402776: transform15 5
+    402778: transform15 6
+    402780: transform15 7
+    402782: transform15 8
+    402784: transform150
+    402786: transform150 1
+    402788: transform151
+    402790: transform151 1
+    402792: transform152
+    402794: transform152 1
+    402796: transform153
+    402798: transform153 1
+    402800: transform154
+    402802: transform154 1
+    402804: transform155
+    402806: transform155 1
+    402808: transform156
+    402810: transform156 1
+    402812: transform157
+    402814: transform157 1
+    402816: transform158
+    402818: transform158 1
+    402820: transform159
+    402822: transform159 1
+    402824: transform16
+    402826: transform16 1
+    402828: transform16 2
+    402830: transform16 3
+    402832: transform16 4
+    402834: transform16 5
+    402836: transform16 6
+    402838: transform16 7
+    402840: transform16 8
+    402842: transform160
+    402844: transform160 1
+    402846: transform161
+    402848: transform161 1
+    402850: transform162
+    402852: transform162 1
+    402854: transform163
+    402856: transform163 1
+    402858: transform17
+    402860: transform17 1
+    402862: transform17 2
+    402864: transform17 3
+    402866: transform17 4
+    402868: transform17 5
+    402870: transform17 6
+    402872: transform17 7
+    402874: transform17 8
+    402876: transform18 1
+    402878: transform18 2
+    402880: transform18 3
+    402882: transform18 4
+    402884: transform18 5
+    402886: transform18 6
+    402888: transform18 7
+    402890: transform18 8
+    402892: transform18 9
+    402894: transform19 1
+    402896: transform19 2
+    402898: transform19 3
+    402900: transform19 4
+    402902: transform19 5
+    402904: transform19 6
+    402906: transform19 7
+    402908: transform19 8
+    402910: transform19 9
+    402912: transform2 1
+    402914: transform2 10
+    402916: transform2 11
+    402918: transform2 12
+    402920: transform2 13
+    402922: transform2 14
+    402924: transform2 15
+    402926: transform2 2
+    402928: transform2 3
+    402930: transform2 4
+    402932: transform2 5
+    402934: transform2 6
+    402936: transform2 7
+    402938: transform2 8
+    402940: transform2 9
+    402942: transform20 1
+    402944: transform20 2
+    402946: transform20 3
+    402948: transform20 4
+    402950: transform20 5
+    402952: transform20 6
+    402954: transform20 7
+    402956: transform21 1
+    402958: transform21 2
+    402960: transform21 3
+    402962: transform21 4
+    402964: transform21 5
+    402966: transform22 1
+    402968: transform22 2
+    402970: transform22 3
+    402972: transform22 4
+    402974: transform22 5
+    402976: transform23 1
+    402978: transform23 2
+    402980: transform23 3
+    402982: transform23 4
+    402984: transform23 5
+    402986: transform24 1
+    402988: transform24 2
+    402990: transform24 3
+    402992: transform24 4
+    402994: transform24 5
+    402996: transform25 1
+    402998: transform25 2
+    403000: transform25 3
+    403002: transform25 4
+    403004: transform25 5
+    403006: transform26 1
+    403008: transform26 2
+    403010: transform26 3
+    403012: transform26 4
+    403014: transform27 1
+    403016: transform27 2
+    403018: transform27 3
+    403020: transform27 4
+    403022: transform28 1
+    403024: transform28 2
+    403026: transform28 3
+    403028: transform28 4
+    403030: transform29 1
+    403032: transform29 2
+    403034: transform29 3
+    403036: transform29 4
+    403038: transform3 1
+    403040: transform3 10
+    403042: transform3 11
+    403044: transform3 12
+    403046: transform3 13
+    403048: transform3 14
+    403050: transform3 15
+    403052: transform3 2
+    403054: transform3 3
+    403056: transform3 4
+    403058: transform3 5
+    403060: transform3 6
+    403062: transform3 7
+    403064: transform3 8
+    403066: transform3 9
+    403068: transform30 1
+    403070: transform30 2
+    403072: transform30 3
+    403074: transform30 4
+    403076: transform31 1
+    403078: transform31 2
+    403080: transform31 3
+    403082: transform31 4
+    403084: transform32 1
+    403086: transform32 2
+    403088: transform32 3
+    403090: transform32 4
+    403092: transform33 1
+    403094: transform33 2
+    403096: transform33 3
+    403098: transform33 4
+    403100: transform34 1
+    403102: transform34 2
+    403104: transform34 3
+    403106: transform34 4
+    403108: transform35 1
+    403110: transform35 2
+    403112: transform35 3
+    403114: transform35 4
+    403116: transform36 1
+    403118: transform36 2
+    403120: transform36 3
+    403122: transform36 4
+    403124: transform37 1
+    403126: transform37 2
+    403128: transform37 3
+    403130: transform37 4
+    403132: transform38 1
+    403134: transform38 2
+    403136: transform38 3
+    403138: transform38 4
+    403140: transform39 1
+    403142: transform39 2
+    403144: transform39 3
+    403146: transform39 4
+    403148: transform4 1
+    403150: transform4 10
+    403152: transform4 11
+    403154: transform4 12
+    403156: transform4 13
+    403158: transform4 14
+    403160: transform4 15
+    403162: transform4 2
+    403164: transform4 3
+    403166: transform4 4
+    403168: transform4 5
+    403170: transform4 6
+    403172: transform4 7
+    403174: transform4 8
+    403176: transform4 9
+    403178: transform40 1
+    403180: transform40 2
+    403182: transform40 3
+    403184: transform40 4
+    403186: transform41 1
+    403188: transform41 2
+    403190: transform41 3
+    403192: transform41 4
+    403194: transform42 1
+    403196: transform42 2
+    403198: transform42 3
+    403200: transform42 4
+    403202: transform43 1
+    403204: transform43 2
+    403206: transform43 3
+    403208: transform43 4
+    403210: transform44 1
+    403212: transform44 2
+    403214: transform44 3
+    403216: transform44 4
+    403218: transform45 1
+    403220: transform45 2
+    403222: transform45 3
+    403224: transform45 4
+    403226: transform46 1
+    403228: transform46 2
+    403230: transform46 3
+    403232: transform46 4
+    403234: transform47
+    403236: transform47 1
+    403238: transform47 2
+    403240: transform47 3
+    403242: transform48
+    403244: transform48 1
+    403246: transform48 2
+    403248: transform48 3
+    403250: transform49
+    403252: transform49 1
+    403254: transform49 2
+    403256: transform49 3
+    403258: transform5 1
+    403260: transform5 10
+    403262: transform5 11
+    403264: transform5 12
+    403266: transform5 13
+    403268: transform5 14
+    403270: transform5 15
+    403272: transform5 2
+    403274: transform5 3
+    403276: transform5 4
+    403278: transform5 5
+    403280: transform5 6
+    403282: transform5 7
+    403284: transform5 8
+    403286: transform5 9
+    403288: transform50 1
+    403290: transform50 2
+    403292: transform50 3
+    403294: transform50 4
+    403296: transform51 1
+    403298: transform51 2
+    403300: transform52 1
+    403302: transform52 2
+    403304: transform53
+    403306: transform53 1
+    403308: transform54
+    403310: transform54 1
+    403312: transform55
+    403314: transform55 1
+    403316: transform56
+    403318: transform56 1
+    403320: transform57
+    403322: transform57 1
+    403324: transform58
+    403326: transform58 1
+    403328: transform59
+    403330: transform59 1
+    403332: transform6
+    403334: transform6 1
+    403336: transform6 10
+    403338: transform6 11
+    403340: transform6 12
+    403342: transform6 13
+    403344: transform6 14
+    403346: transform6 2
+    403348: transform6 3
+    403350: transform6 4
+    403352: transform6 5
+    403354: transform6 6
+    403356: transform6 7
+    403358: transform6 8
+    403360: transform6 9
+    403362: transform60 1
+    403364: transform60 2
+    403366: transform61 1
+    403368: transform61 2
+    403370: transform62 1
+    403372: transform62 2
+    403374: transform63 1
+    403376: transform63 2
+    403378: transform64 1
+    403380: transform64 2
+    403382: transform65 1
+    403384: transform65 2
+    403386: transform66 1
+    403388: transform66 2
+    403390: transform67 1
+    403392: transform67 2
+    403394: transform68 1
+    403396: transform68 2
+    403398: transform69 1
+    403400: transform69 2
+    403402: transform7
+    403404: transform7 1
+    403406: transform7 10
+    403408: transform7 11
+    403410: transform7 12
+    403412: transform7 13
+    403414: transform7 14
+    403416: transform7 2
+    403418: transform7 3
+    403420: transform7 4
+    403422: transform7 5
+    403424: transform7 6
+    403426: transform7 7
+    403428: transform7 8
+    403430: transform7 9
+    403432: transform70 1
+    403434: transform70 2
+    403436: transform71 1
+    403438: transform71 2
+    403440: transform72 1
+    403442: transform72 2
+    403444: transform73 1
+    403446: transform73 2
+    403448: transform74 1
+    403450: transform74 2
+    403452: transform75 1
+    403454: transform75 2
+    403456: transform76 1
+    403458: transform76 2
+    403460: transform77 1
+    403462: transform77 2
+    403464: transform78 1
+    403466: transform78 2
+    403468: transform79 1
+    403470: transform79 2
+    403472: transform8
+    403474: transform8 1
+    403476: transform8 10
+    403478: transform8 11
+    403480: transform8 12
+    403482: transform8 13
+    403484: transform8 14
+    403486: transform8 2
+    403488: transform8 3
+    403490: transform8 4
+    403492: transform8 5
+    403494: transform8 6
+    403496: transform8 7
+    403498: transform8 8
+    403500: transform8 9
+    403502: transform80 1
+    403504: transform80 2
+    403506: transform81 1
+    403508: transform81 2
+    403510: transform82 1
+    403512: transform82 2
+    403514: transform83 1
+    403516: transform83 2
+    403518: transform84 1
+    403520: transform84 2
+    403522: transform85 1
+    403524: transform85 2
+    403526: transform86 1
+    403528: transform86 2
+    403530: transform87
+    403532: transform87 1
+    403534: transform88
+    403536: transform88 1
+    403538: transform89
+    403540: transform89 1
+    403542: transform9
+    403544: transform9 1
+    403546: transform9 10
+    403548: transform9 11
+    403550: transform9 12
+    403552: transform9 13
+    403554: transform9 14
+    403556: transform9 2
+    403558: transform9 3
+    403560: transform9 4
+    403562: transform9 5
+    403564: transform9 6
+    403566: transform9 7
+    403568: transform9 8
+    403570: transform9 9
+    403572: transform90
+    403574: transform90 1
+    403576: transform91
+    403578: transform91 1
+    403580: transform92
+    403582: transform92 1
+    403584: transform93
+    403586: transform93 1
+    403588: transform94
+    403590: transform94 1
+    403592: transform95
+    403594: transform95 1
+    403596: transform96
+    403598: transform96 1
+    403600: transform97
+    403602: transform97 1
+    403604: transform98
+    403606: transform98 1
+    403608: transform99
+    403610: transform99 1
+    403612: tree
+    403614: tree2
+    403616: watercar_pCube1
+    403618: watercar_pCylinder1
+    403620: watercar_pCylinder11
+    403622: watercar_pCylinder12
+    403624: watercar_pCylinder13
+    403626: watercar_pCylinder14
+    403628: watercar_pCylinder15
+    403630: watercar_pCylinder2
+    403632: watercar_pCylinder3
+    403634: watercar_pCylinder6
+    403636: watercar_pCylinder7
+    403638: watercar_polySurface1
+    403640: BalloonShop
+    403642: pCylinder1 1
+    403644: polySurface2 8
+    403646: polySurface3 6
+    403648: polySurface4 6
+    403650: polySurface5 6
+    403652: pond
+    403654: saimai
+    403656: saimai_fix_pCube1
+    403658: saimai_fix_pCube2
+    403660: saimai_fix_pCylinder1
+    403662: saimai_fix_pCylinder10
+    403664: saimai_fix_pCylinder11
+    403666: saimai_fix_pCylinder12
+    403668: saimai_fix_pCylinder13
+    403670: saimai_fix_pCylinder14
+    403672: saimai_fix_pCylinder15
+    403674: saimai_fix_pCylinder16
+    403676: saimai_fix_pCylinder2
+    403678: saimai_fix_pCylinder7
+    403680: saimai_fix_pCylinder8
+    403682: saimai_fix_pCylinder9
+    403684: sky
+    403686: temple
+    403688: texture_fix_pCube1
+    403690: texture_fix_pCylinder2
+    403692: texture_fix_pCylinder3
+    403694: texture_fix_pCylinder4
+    403696: texture_fix_pCylinder5
+    403698: texture_fix_pCylinder6
+    403700: texture_fix_pCylinder7
+    403702: texture_fix_pCylinder8
+    403704: texture_fix_polySurface1
+    403706: texture_fix_pSphere1
+    403708: texture_fix_pSphere2
+    403710: texture_fix_pSphere3
+    403712: texture_fix_pSphere4
+    403714: texture_fix_pSphere5
+    403716: transform1 16
+    403718: transform1 17
+    403720: transform10 13
+    403722: transform10 14
+    403724: transform11 11
+    403726: transform11 12
+    403728: transform12 11
+    403730: transform12 12
+    403732: transform13 10
+    403734: transform13 9
+    403736: transform14 10
+    403738: transform14 9
+    403740: transform15 9
+    403742: transform16 9
+    403744: transform17 9
+    403746: transform18 10
+    403748: transform19 10
+    403750: transform2 16
+    403752: transform2 17
+    403754: transform3 16
+    403756: transform3 17
+    403758: transform4 16
+    403760: transform4 17
+    403762: transform5 16
+    403764: transform5 17
+    403766: transform6 15
+    403768: transform6 16
+    403770: transform7 15
+    403772: transform7 16
+    403774: transform8 15
+    403776: transform8 16
+    403778: transform9 15
+    403780: transform9 16
+    403782: group1 1
+    403784: group2 1
+    403786: khowram_back
+    403788: khowram_group
+    403790: khowram_group3
+    403792: khowram_left
+    403794: khowram_pCube1
+    403796: khowram_pCube2
+    403798: khowram_pCube3
+    403800: khowram_pCube4
+    403802: khowram_pCube5
+    403804: khowram_pCube6
+    403806: khowram_pCylinder3
+    403808: khowram_pCylinder4
+    403810: khowram_pCylinder5
+    403812: khowram_pCylinder6
+    403814: khowram_pCylinder8
+    403816: khowram_polySurface1
+    403818: khowram_polySurface10
+    403820: khowram_polySurface12
+    403822: khowram_polySurface2
+    403824: khowram_polySurface3
+    403826: khowram_polySurface4
+    403828: khowram_polySurface42
+    403830: khowram_polySurface5
+    403832: khowram_polySurface6
+    403834: khowram_polySurface74
+    403836: khowram_polySurface75
+    403838: khowram_polySurface76
+    403840: khowram_polySurface77
+    403842: khowram_polySurface78
+    403844: khowram_polySurface79
+    403846: khowram_polySurface80
+    403848: khowram_polySurface81
+    403850: khowram_polySurface82
+    403852: khowram_polySurface83
+    403854: khowram_polySurface84
+    403856: khowram_polySurface85
+    403858: khowram_polySurface86
+    403860: khowram_polySurface87
+    403862: khowram_polySurface88
+    403864: khowram_polySurface89
+    403866: khowram_polySurface90
+    403868: khowram_pPipe1
+    403870: khowram_pPipe10
+    403872: khowram_pPipe11
+    403874: khowram_pPipe12
+    403876: khowram_pPipe13
+    403878: khowram_pPipe14
+    403880: khowram_pPipe15
+    403882: khowram_pPipe16
+    403884: khowram_pPipe17
+    403886: khowram_pPipe18
+    403888: khowram_pPipe19
+    403890: khowram_pPipe2
+    403892: khowram_pPipe20
+    403894: khowram_pPipe21
+    403896: khowram_pPipe22
+    403898: khowram_pPipe23
+    403900: khowram_pPipe24
+    403902: khowram_pPipe25
+    403904: khowram_pPipe26
+    403906: khowram_pPipe27
+    403908: khowram_pPipe28
+    403910: khowram_pPipe29
+    403912: khowram_pPipe3
+    403914: khowram_pPipe30
+    403916: khowram_pPipe4
+    403918: khowram_pPipe43
+    403920: khowram_pPipe44
+    403922: khowram_pPipe45
+    403924: khowram_pPipe46
+    403926: khowram_pPipe47
+    403928: khowram_pPipe48
+    403930: khowram_pPipe49
+    403932: khowram_pPipe5
+    403934: khowram_pPipe50
+    403936: khowram_pPipe51
+    403938: khowram_pPipe52
+    403940: khowram_pPipe53
+    403942: khowram_pPipe54
+    403944: khowram_pPipe55
+    403946: khowram_pPipe6
+    403948: khowram_pPipe7
+    403950: khowram_pPipe8
+    403952: khowram_pPipe9
+    403954: khowram_pPlane3
+    403956: khowram_pPlane4
+    403958: khowram_pPlane5
+    403960: khowram_pPlane6
+    403962: khowram_pPlane7
+    403964: khowram_pPlane8
+    403966: Newporkballs_pCube1
+    403968: Newporkballs_pCube2
+    403970: Newporkballs_pCube3
+    403972: Newporkballs_pCube4
+    403974: Newporkballs_pCube5
+    403976: Newporkballs_pCylinder1
+    403978: Newporkballs_pCylinder15
+    403980: Newporkballs_pCylinder26
+    403982: Newporkballs_pCylinder27
+    403984: Newporkballs_pCylinder28
+    403986: Newporkballs_pCylinder3
+    403988: Newporkballs_pCylinder8
+    403990: newtincan_polySurface1
+    403992: Newwatercar_pCube1
+    403994: Newwatercar_pCylinder1
+    403996: Newwatercar_pCylinder11
+    403998: Newwatercar_pCylinder12
+    404000: Newwatercar_pCylinder13
+    404002: Newwatercar_pCylinder14
+    404004: Newwatercar_pCylinder15
+    404006: Newwatercar_pCylinder2
+    404008: Newwatercar_pCylinder3
+    404010: Newwatercar_pCylinder6
+    404012: Newwatercar_pCylinder7
+    404014: Newwatercar_polySurface3
+    404016: padthai_pCylinder11
+    404018: padthai_pCylinder12
+    404020: pasted__pCylinder8 2
+    404022: pasted__polySurface10 6
+    404024: pasted__polySurface10 7
+    404026: pasted__polySurface10 8
+    404028: pasted__pPipe43 2
+    404030: pasted__pPipe44 2
+    404032: pasted__pPipe45 2
+    404034: pasted__pPipe46 2
+    404036: pasted__pPipe47 2
+    404038: pasted__pPipe48 2
+    404040: pasted__pPipe49 2
+    404042: pasted__pPipe50 2
+    404044: pasted__pPipe51 2
+    404046: pasted__pPipe52 2
+    404048: pasted__pPipe53 2
+    404050: pasted__pPipe54 2
+    404052: patthai
+    404054: polySurface1 5
+    404056: polySurface10 3
+    404058: polySurface11 1
+    404060: polySurface12 5
+    404062: polySurface12 6
+    404064: polySurface13 1
+    404066: polySurface13 2
+    404068: polySurface14 3
+    404070: polySurface14 4
+    404072: polySurface15 3
+    404074: polySurface15 4
+    404076: polySurface16 3
+    404078: polySurface16 4
+    404080: polySurface17 3
+    404082: polySurface17 4
+    404084: polySurface18 3
+    404086: polySurface18 4
+    404088: polySurface19 3
+    404090: polySurface19 4
+    404092: polySurface2 10
+    404094: polySurface2 9
+    404096: polySurface20 3
+    404098: polySurface20 4
+    404100: polySurface21 3
+    404102: polySurface21 4
+    404104: polySurface22 3
+    404106: polySurface22 4
+    404108: polySurface23 1
+    404110: polySurface23 2
+    404112: polySurface24 3
+    404114: polySurface24 4
+    404116: polySurface25 3
+    404118: polySurface25 4
+    404120: polySurface26 3
+    404122: polySurface26 4
+    404124: polySurface27 3
+    404126: polySurface27 4
+    404128: polySurface28 3
+    404130: polySurface28 4
+    404132: polySurface29 3
+    404134: polySurface29 4
+    404136: polySurface3 7
+    404138: polySurface30 3
+    404140: polySurface30 4
+    404142: polySurface31 3
+    404144: polySurface31 4
+    404146: polySurface32 2
+    404148: polySurface32 3
+    404150: polySurface33 2
+    404152: polySurface33 3
+    404154: polySurface34 2
+    404156: polySurface34 3
+    404158: polySurface35 3
+    404160: polySurface35 4
+    404162: polySurface36 3
+    404164: polySurface36 4
+    404166: polySurface37 3
+    404168: polySurface37 4
+    404170: polySurface38 3
+    404172: polySurface38 4
+    404174: polySurface39 2
+    404176: polySurface39 3
+    404178: polySurface4 7
+    404180: polySurface40 2
+    404182: polySurface40 3
+    404184: polySurface41 2
+    404186: polySurface41 3
+    404188: polySurface42 3
+    404190: polySurface42 4
+    404192: polySurface43 2
+    404194: polySurface44 2
+    404196: polySurface45 2
+    404198: polySurface46 2
+    404200: polySurface47 2
+    404202: polySurface48 2
+    404204: polySurface49 2
+    404206: polySurface5 7
+    404208: polySurface50 2
+    404210: polySurface51 2
+    404212: polySurface52 2
+    404214: polySurface53 2
+    404216: polySurface54 2
+    404218: polySurface55 2
+    404220: polySurface56 2
+    404222: polySurface57 2
+    404224: polySurface58 2
+    404226: polySurface59 2
+    404228: polySurface6 4
+    404230: polySurface60 2
+    404232: polySurface61 2
+    404234: polySurface62 2
+    404236: polySurface63 2
+    404238: polySurface64 2
+    404240: polySurface65 2
+    404242: polySurface66 2
+    404244: polySurface67 2
+    404246: polySurface68 2
+    404248: polySurface69 2
+    404250: polySurface7 3
+    404252: polySurface70 2
+    404254: polySurface71 2
+    404256: polySurface72 2
+    404258: polySurface73 2
+    404260: polySurface8 5
+    404262: polySurface9 4
+    404264: polySurface91
+    404266: porkballs
+    404268: pPlane1 1
+    404270: pPlane2
+    404272: pSphere37
+    404274: pSphere48
+    404276: pSphere49
+    404278: pSphere50
+    404280: pSphere9
+    404282: tincan
+    404284: transform1 18
+    404286: transform1 19
+    404288: transform1 20
+    404290: transform1 21
+    404292: transform10 15
+    404294: transform10 16
+    404296: transform10 17
+    404298: transform10 18
+    404300: transform100 2
+    404302: transform101 2
+    404304: transform102 2
+    404306: transform103 2
+    404308: transform104 2
+    404310: transform105 2
+    404312: transform106 2
+    404314: transform107 2
+    404316: transform108 2
+    404318: transform109 2
+    404320: transform11 13
+    404322: transform11 14
+    404324: transform11 15
+    404326: transform11 16
+    404328: transform110 2
+    404330: transform111 2
+    404332: transform112 2
+    404334: transform113 2
+    404336: transform114 2
+    404338: transform115 2
+    404340: transform116 2
+    404342: transform117 2
+    404344: transform118 2
+    404346: transform119 2
+    404348: transform12 13
+    404350: transform12 14
+    404352: transform12 15
+    404354: transform12 16
+    404356: transform120 2
+    404358: transform121 2
+    404360: transform122 2
+    404362: transform123 2
+    404364: transform124 2
+    404366: transform125 2
+    404368: transform126 2
+    404370: transform127 2
+    404372: transform128 2
+    404374: transform129 2
+    404376: transform13 11
+    404378: transform13 12
+    404380: transform13 13
+    404382: transform130 2
+    404384: transform131 2
+    404386: transform132 2
+    404388: transform133 2
+    404390: transform134 2
+    404392: transform135 2
+    404394: transform136 2
+    404396: transform137 2
+    404398: transform138 2
+    404400: transform139 2
+    404402: transform14 11
+    404404: transform14 12
+    404406: transform14 13
+    404408: transform140 2
+    404410: transform141 2
+    404412: transform142 2
+    404414: transform143 2
+    404416: transform144 2
+    404418: transform145 2
+    404420: transform146 2
+    404422: transform147 2
+    404424: transform148 2
+    404426: transform149 2
+    404428: transform15 10
+    404430: transform15 11
+    404432: transform15 12
+    404434: transform150 2
+    404436: transform151 2
+    404438: transform152 2
+    404440: transform153 2
+    404442: transform154 2
+    404444: transform155 2
+    404446: transform156 2
+    404448: transform157 2
+    404450: transform158 2
+    404452: transform159 2
+    404454: transform16 10
+    404456: transform16 11
+    404458: transform16 12
+    404460: transform160 2
+    404462: transform161 2
+    404464: transform162 2
+    404466: transform163 2
+    404468: transform17 10
+    404470: transform17 11
+    404472: transform17 12
+    404474: transform18 11
+    404476: transform18 12
+    404478: transform19 11
+    404480: transform19 12
+    404482: transform2 18
+    404484: transform2 19
+    404486: transform2 20
+    404488: transform2 21
+    404490: transform20 8
+    404492: transform20 9
+    404494: transform21 6
+    404496: transform21 7
+    404498: transform22 6
+    404500: transform22 7
+    404502: transform23 6
+    404504: transform23 7
+    404506: transform24 6
+    404508: transform24 7
+    404510: transform25 6
+    404512: transform25 7
+    404514: transform26 5
+    404516: transform26 6
+    404518: transform27 5
+    404520: transform27 6
+    404522: transform28 5
+    404524: transform28 6
+    404526: transform29 5
+    404528: transform29 6
+    404530: transform3 18
+    404532: transform3 19
+    404534: transform3 20
+    404536: transform3 21
+    404538: transform30 5
+    404540: transform30 6
+    404542: transform31 5
+    404544: transform31 6
+    404546: transform32 5
+    404548: transform32 6
+    404550: transform33 5
+    404552: transform33 6
+    404554: transform34 5
+    404556: transform34 6
+    404558: transform35 5
+    404560: transform35 6
+    404562: transform36 5
+    404564: transform36 6
+    404566: transform37 5
+    404568: transform37 6
+    404570: transform38 5
+    404572: transform38 6
+    404574: transform39 5
+    404576: transform39 6
+    404578: transform4 18
+    404580: transform4 19
+    404582: transform4 20
+    404584: transform4 21
+    404586: transform40 5
+    404588: transform40 6
+    404590: transform41 5
+    404592: transform41 6
+    404594: transform42 5
+    404596: transform43 5
+    404598: transform44 5
+    404600: transform45 5
+    404602: transform46 5
+    404604: transform47 4
+    404606: transform48 4
+    404608: transform49 4
+    404610: transform5 18
+    404612: transform5 19
+    404614: transform5 20
+    404616: transform5 21
+    404618: transform50 5
+    404620: transform51 3
+    404622: transform52 3
+    404624: transform53 2
+    404626: transform54 2
+    404628: transform55 2
+    404630: transform56 2
+    404632: transform57 2
+    404634: transform58 2
+    404636: transform59 2
+    404638: transform6 17
+    404640: transform6 18
+    404642: transform6 19
+    404644: transform6 20
+    404646: transform60 3
+    404648: transform61 3
+    404650: transform62 3
+    404652: transform63 3
+    404654: transform64 3
+    404656: transform65 3
+    404658: transform66 3
+    404660: transform67 3
+    404662: transform68 3
+    404664: transform69 3
+    404666: transform7 17
+    404668: transform7 18
+    404670: transform7 19
+    404672: transform7 20
+    404674: transform70 3
+    404676: transform71 3
+    404678: transform72 3
+    404680: transform73 3
+    404682: transform74 3
+    404684: transform75 3
+    404686: transform76 3
+    404688: transform77 3
+    404690: transform78 3
+    404692: transform79 3
+    404694: transform8 17
+    404696: transform8 18
+    404698: transform8 19
+    404700: transform8 20
+    404702: transform80 3
+    404704: transform81 3
+    404706: transform82 3
+    404708: transform83 3
+    404710: transform84 3
+    404712: transform85 3
+    404714: transform86 3
+    404716: transform87 2
+    404718: transform88 2
+    404720: transform89 2
+    404722: transform9 17
+    404724: transform9 18
+    404726: transform9 19
+    404728: transform9 20
+    404730: transform90 2
+    404732: transform91 2
+    404734: transform92 2
+    404736: transform93 2
+    404738: transform94 2
+    404740: transform95 2
+    404742: transform96 2
+    404744: transform97 2
+    404746: transform98 2
+    404748: transform99 2
+    404750: dartshop
+    404752: newdart_pCube10
+    404754: newdart_pCube2
+    404756: newdart_pCube3
+    404758: newdart_pCube4
+    404760: newdart_pCube5
+    404762: newdart_pCube6
+    404764: newdart_pCube7
+    404766: newdart_pCube8
+    404768: newdart_pCube9
+    2300000: IceCreamTank_3:pCylinder25
+    2300002: IceCreamTank_3:pCylinder35
+    2300004: IceCreamTank_3:pCylinder37
+    2300006: IceCreamTank_3:polySurface37
+    2300008: IceCreamTank_3:pSphere1
+    2300010: icee:pCube7
+    2300012: pasted__pCube46_3
+    2300014: pasted__pCube49
+    2300016: pasted__pCube50_2
+    2300018: pasted__pCube50_3
+    2300020: pasted__pCube51_1
+    2300022: pasted__pCylinder105
+    2300024: pasted__pCylinder44
+    2300026: pasted__pSphere1
+    2300028: pasted__pSphere10
+    2300030: pasted__pSphere11
+    2300032: pasted__pSphere12
+    2300034: pasted__pSphere13
+    2300036: pasted__pSphere14
+    2300038: pasted__pSphere15
+    2300040: pasted__pSphere16
+    2300042: pasted__pSphere17
+    2300044: pasted__pSphere18
+    2300046: pasted__pSphere19
+    2300048: pasted__pSphere2
+    2300050: pasted__pSphere20
+    2300052: pasted__pSphere21
+    2300054: pasted__pSphere22
+    2300056: pasted__pSphere23
+    2300058: pasted__pSphere24
+    2300060: pasted__pSphere25
+    2300062: pasted__pSphere26
+    2300064: pasted__pSphere27
+    2300066: pasted__pSphere28
+    2300068: pasted__pSphere29
+    2300070: pasted__pSphere3
+    2300072: pasted__pSphere30
+    2300074: pasted__pSphere31
+    2300076: pasted__pSphere32
+    2300078: pasted__pSphere33
+    2300080: pasted__pSphere34
+    2300082: pasted__pSphere35
+    2300084: pasted__pSphere36
+    2300086: pasted__pSphere37
+    2300088: pasted__pSphere39
+    2300090: pasted__pSphere4
+    2300092: pasted__pSphere40
+    2300094: pasted__pSphere41
+    2300096: pasted__pSphere5
+    2300098: pasted__pSphere6
+    2300100: pasted__pSphere7
+    2300102: pasted__pSphere8
+    2300104: pasted__pSphere9
+    2300106: pCube1
+    2300108: pCylinder25
+    2300110: pCylinder25 1
+    2300112: pCylinder25 2
+    2300114: pCylinder35
+    2300116: pCylinder36
+    2300118: pCylinder37
+    2300120: polySurface173
+    2300122: polySurface174
+    2300124: SaiFire:pasted__pCylinder105
+    2300126: SaiFire:pasted__pSphere1
+    2300128: SaiFire:pasted__pSphere10
+    2300130: SaiFire:pasted__pSphere11
+    2300132: SaiFire:pasted__pSphere12
+    2300134: SaiFire:pasted__pSphere13
+    2300136: SaiFire:pasted__pSphere14
+    2300138: SaiFire:pasted__pSphere15
+    2300140: SaiFire:pasted__pSphere16
+    2300142: SaiFire:pasted__pSphere17
+    2300144: SaiFire:pasted__pSphere18
+    2300146: SaiFire:pasted__pSphere19
+    2300148: SaiFire:pasted__pSphere2
+    2300150: SaiFire:pasted__pSphere20
+    2300152: SaiFire:pasted__pSphere21
+    2300154: SaiFire:pasted__pSphere22
+    2300156: SaiFire:pasted__pSphere23
+    2300158: SaiFire:pasted__pSphere24
+    2300160: SaiFire:pasted__pSphere25
+    2300162: SaiFire:pasted__pSphere26
+    2300164: SaiFire:pasted__pSphere27
+    2300166: SaiFire:pasted__pSphere28
+    2300168: SaiFire:pasted__pSphere29
+    2300170: SaiFire:pasted__pSphere3
+    2300172: SaiFire:pasted__pSphere30
+    2300174: SaiFire:pasted__pSphere31
+    2300176: SaiFire:pasted__pSphere32
+    2300178: SaiFire:pasted__pSphere33
+    2300180: SaiFire:pasted__pSphere34
+    2300182: SaiFire:pasted__pSphere35
+    2300184: SaiFire:pasted__pSphere36
+    2300186: SaiFire:pasted__pSphere37
+    2300188: SaiFire:pasted__pSphere39
+    2300190: SaiFire:pasted__pSphere4
+    2300192: SaiFire:pasted__pSphere40
+    2300194: SaiFire:pasted__pSphere41
+    2300196: SaiFire:pasted__pSphere5
+    2300198: SaiFire:pasted__pSphere6
+    2300200: SaiFire:pasted__pSphere7
+    2300202: SaiFire:pasted__pSphere8
+    2300204: SaiFire:pasted__pSphere9
+    2300206: chinping
+    2300208: floor
+    2300210: ice
+    2300212: jedi
+    2300214: left_shop
+    2300216: main_shop
+    2300218: pCylinder38
+    2300220: pCylinder39
+    2300222: right_shop
+    2300224: somtum
+    2300226: temple_2D
+    2300228: wall
+    2300230: wall_temple
+    2300232: balloon_pCube2
+    2300234: chair_pCube10
+    2300236: chair_pCube9
+    2300238: CoreGame_Obj_polySurface2
+    2300240: pCube11
+    2300242: pCube12
+    2300244: pPipe56
+    2300246: pSphere7
+    2300248: SaiFire1:pasted__pCylinder105
+    2300250: SaiFire1:pasted__pSphere1
+    2300252: SaiFire1:pasted__pSphere10
+    2300254: SaiFire1:pasted__pSphere11
+    2300256: SaiFire1:pasted__pSphere12
+    2300258: SaiFire1:pasted__pSphere13
+    2300260: SaiFire1:pasted__pSphere14
+    2300262: SaiFire1:pasted__pSphere15
+    2300264: SaiFire1:pasted__pSphere16
+    2300266: SaiFire1:pasted__pSphere17
+    2300268: SaiFire1:pasted__pSphere18
+    2300270: SaiFire1:pasted__pSphere19
+    2300272: SaiFire1:pasted__pSphere2
+    2300274: SaiFire1:pasted__pSphere20
+    2300276: SaiFire1:pasted__pSphere21
+    2300278: SaiFire1:pasted__pSphere22
+    2300280: SaiFire1:pasted__pSphere23
+    2300282: SaiFire1:pasted__pSphere24
+    2300284: SaiFire1:pasted__pSphere25
+    2300286: SaiFire1:pasted__pSphere26
+    2300288: SaiFire1:pasted__pSphere27
+    2300290: SaiFire1:pasted__pSphere28
+    2300292: SaiFire1:pasted__pSphere29
+    2300294: SaiFire1:pasted__pSphere3
+    2300296: SaiFire1:pasted__pSphere30
+    2300298: SaiFire1:pasted__pSphere31
+    2300300: SaiFire1:pasted__pSphere32
+    2300302: SaiFire1:pasted__pSphere33
+    2300304: SaiFire1:pasted__pSphere34
+    2300306: SaiFire1:pasted__pSphere35
+    2300308: SaiFire1:pasted__pSphere36
+    2300310: SaiFire1:pasted__pSphere37
+    2300312: SaiFire1:pasted__pSphere39
+    2300314: SaiFire1:pasted__pSphere4
+    2300316: SaiFire1:pasted__pSphere40
+    2300318: SaiFire1:pasted__pSphere41
+    2300320: SaiFire1:pasted__pSphere5
+    2300322: SaiFire1:pasted__pSphere6
+    2300324: SaiFire1:pasted__pSphere7
+    2300326: SaiFire1:pasted__pSphere8
+    2300328: SaiFire1:pasted__pSphere9
+    2300330: shop_pCube7
+    2300332: temple_mesh_polySurface3
+    2300334: temple_mesh_pSphere7
+    2300336: tree
+    2300338: tree2
+    2300340: watercar_polySurface1
+    2300342: BalloonShop
+    2300344: pond
+    2300346: saimai
+    2300348: sky
+    2300350: temple
+    2300352: Newwatercar_polySurface3
+    2300354: patthai
+    2300356: polySurface91
+    2300358: porkballs
+    2300360: tincan
+    2300362: dartshop
+    3300000: IceCreamTank_3:pCylinder25
+    3300002: IceCreamTank_3:pCylinder35
+    3300004: IceCreamTank_3:pCylinder37
+    3300006: IceCreamTank_3:polySurface37
+    3300008: IceCreamTank_3:pSphere1
+    3300010: icee:pCube7
+    3300012: pasted__pCube46_3
+    3300014: pasted__pCube49
+    3300016: pasted__pCube50_2
+    3300018: pasted__pCube50_3
+    3300020: pasted__pCube51_1
+    3300022: pasted__pCylinder105
+    3300024: pasted__pCylinder44
+    3300026: pasted__pSphere1
+    3300028: pasted__pSphere10
+    3300030: pasted__pSphere11
+    3300032: pasted__pSphere12
+    3300034: pasted__pSphere13
+    3300036: pasted__pSphere14
+    3300038: pasted__pSphere15
+    3300040: pasted__pSphere16
+    3300042: pasted__pSphere17
+    3300044: pasted__pSphere18
+    3300046: pasted__pSphere19
+    3300048: pasted__pSphere2
+    3300050: pasted__pSphere20
+    3300052: pasted__pSphere21
+    3300054: pasted__pSphere22
+    3300056: pasted__pSphere23
+    3300058: pasted__pSphere24
+    3300060: pasted__pSphere25
+    3300062: pasted__pSphere26
+    3300064: pasted__pSphere27
+    3300066: pasted__pSphere28
+    3300068: pasted__pSphere29
+    3300070: pasted__pSphere3
+    3300072: pasted__pSphere30
+    3300074: pasted__pSphere31
+    3300076: pasted__pSphere32
+    3300078: pasted__pSphere33
+    3300080: pasted__pSphere34
+    3300082: pasted__pSphere35
+    3300084: pasted__pSphere36
+    3300086: pasted__pSphere37
+    3300088: pasted__pSphere39
+    3300090: pasted__pSphere4
+    3300092: pasted__pSphere40
+    3300094: pasted__pSphere41
+    3300096: pasted__pSphere5
+    3300098: pasted__pSphere6
+    3300100: pasted__pSphere7
+    3300102: pasted__pSphere8
+    3300104: pasted__pSphere9
+    3300106: pCube1
+    3300108: pCylinder25
+    3300110: pCylinder25 1
+    3300112: pCylinder25 2
+    3300114: pCylinder35
+    3300116: pCylinder36
+    3300118: pCylinder37
+    3300120: polySurface173
+    3300122: polySurface174
+    3300124: SaiFire:pasted__pCylinder105
+    3300126: SaiFire:pasted__pSphere1
+    3300128: SaiFire:pasted__pSphere10
+    3300130: SaiFire:pasted__pSphere11
+    3300132: SaiFire:pasted__pSphere12
+    3300134: SaiFire:pasted__pSphere13
+    3300136: SaiFire:pasted__pSphere14
+    3300138: SaiFire:pasted__pSphere15
+    3300140: SaiFire:pasted__pSphere16
+    3300142: SaiFire:pasted__pSphere17
+    3300144: SaiFire:pasted__pSphere18
+    3300146: SaiFire:pasted__pSphere19
+    3300148: SaiFire:pasted__pSphere2
+    3300150: SaiFire:pasted__pSphere20
+    3300152: SaiFire:pasted__pSphere21
+    3300154: SaiFire:pasted__pSphere22
+    3300156: SaiFire:pasted__pSphere23
+    3300158: SaiFire:pasted__pSphere24
+    3300160: SaiFire:pasted__pSphere25
+    3300162: SaiFire:pasted__pSphere26
+    3300164: SaiFire:pasted__pSphere27
+    3300166: SaiFire:pasted__pSphere28
+    3300168: SaiFire:pasted__pSphere29
+    3300170: SaiFire:pasted__pSphere3
+    3300172: SaiFire:pasted__pSphere30
+    3300174: SaiFire:pasted__pSphere31
+    3300176: SaiFire:pasted__pSphere32
+    3300178: SaiFire:pasted__pSphere33
+    3300180: SaiFire:pasted__pSphere34
+    3300182: SaiFire:pasted__pSphere35
+    3300184: SaiFire:pasted__pSphere36
+    3300186: SaiFire:pasted__pSphere37
+    3300188: SaiFire:pasted__pSphere39
+    3300190: SaiFire:pasted__pSphere4
+    3300192: SaiFire:pasted__pSphere40
+    3300194: SaiFire:pasted__pSphere41
+    3300196: SaiFire:pasted__pSphere5
+    3300198: SaiFire:pasted__pSphere6
+    3300200: SaiFire:pasted__pSphere7
+    3300202: SaiFire:pasted__pSphere8
+    3300204: SaiFire:pasted__pSphere9
+    3300206: chinping
+    3300208: floor
+    3300210: ice
+    3300212: jedi
+    3300214: left_shop
+    3300216: main_shop
+    3300218: pCylinder38
+    3300220: pCylinder39
+    3300222: right_shop
+    3300224: somtum
+    3300226: temple_2D
+    3300228: wall
+    3300230: wall_temple
+    3300232: balloon_pCube2
+    3300234: chair_pCube10
+    3300236: chair_pCube9
+    3300238: CoreGame_Obj_polySurface2
+    3300240: pCube11
+    3300242: pCube12
+    3300244: pPipe56
+    3300246: pSphere7
+    3300248: SaiFire1:pasted__pCylinder105
+    3300250: SaiFire1:pasted__pSphere1
+    3300252: SaiFire1:pasted__pSphere10
+    3300254: SaiFire1:pasted__pSphere11
+    3300256: SaiFire1:pasted__pSphere12
+    3300258: SaiFire1:pasted__pSphere13
+    3300260: SaiFire1:pasted__pSphere14
+    3300262: SaiFire1:pasted__pSphere15
+    3300264: SaiFire1:pasted__pSphere16
+    3300266: SaiFire1:pasted__pSphere17
+    3300268: SaiFire1:pasted__pSphere18
+    3300270: SaiFire1:pasted__pSphere19
+    3300272: SaiFire1:pasted__pSphere2
+    3300274: SaiFire1:pasted__pSphere20
+    3300276: SaiFire1:pasted__pSphere21
+    3300278: SaiFire1:pasted__pSphere22
+    3300280: SaiFire1:pasted__pSphere23
+    3300282: SaiFire1:pasted__pSphere24
+    3300284: SaiFire1:pasted__pSphere25
+    3300286: SaiFire1:pasted__pSphere26
+    3300288: SaiFire1:pasted__pSphere27
+    3300290: SaiFire1:pasted__pSphere28
+    3300292: SaiFire1:pasted__pSphere29
+    3300294: SaiFire1:pasted__pSphere3
+    3300296: SaiFire1:pasted__pSphere30
+    3300298: SaiFire1:pasted__pSphere31
+    3300300: SaiFire1:pasted__pSphere32
+    3300302: SaiFire1:pasted__pSphere33
+    3300304: SaiFire1:pasted__pSphere34
+    3300306: SaiFire1:pasted__pSphere35
+    3300308: SaiFire1:pasted__pSphere36
+    3300310: SaiFire1:pasted__pSphere37
+    3300312: SaiFire1:pasted__pSphere39
+    3300314: SaiFire1:pasted__pSphere4
+    3300316: SaiFire1:pasted__pSphere40
+    3300318: SaiFire1:pasted__pSphere41
+    3300320: SaiFire1:pasted__pSphere5
+    3300322: SaiFire1:pasted__pSphere6
+    3300324: SaiFire1:pasted__pSphere7
+    3300326: SaiFire1:pasted__pSphere8
+    3300328: SaiFire1:pasted__pSphere9
+    3300330: shop_pCube7
+    3300332: temple_mesh_polySurface3
+    3300334: temple_mesh_pSphere7
+    3300336: tree
+    3300338: tree2
+    3300340: watercar_polySurface1
+    3300342: BalloonShop
+    3300344: pond
+    3300346: saimai
+    3300348: sky
+    3300350: temple
+    3300352: Newwatercar_polySurface3
+    3300354: patthai
+    3300356: polySurface91
+    3300358: porkballs
+    3300360: tincan
+    3300362: dartshop
+    4300000: IceCreamTank_3:polySurface37
+    4300002: IceCreamTank_3:pSphere1
+    4300004: IceCreamTank_3:pCylinder35
+    4300006: IceCreamTank_3:pCylinder25
+    4300008: IceCreamTank_3:pCylinder37
+    4300010: pCube1
+    4300012: polySurface173
+    4300014: polySurface174
+    4300016: pCylinder35
+    4300018: pCylinder25
+    4300020: pCylinder36
+    4300022: pCylinder25
+    4300024: pCylinder37
+    4300026: pCylinder25
+    4300028: pasted__pCube46_3
+    4300030: pasted__pCylinder44
+    4300032: pasted__pCube49
+    4300034: pasted__pCube50_2
+    4300036: pasted__pCube51_1
+    4300038: pasted__pCube50_3
+    4300040: icee:pCube7
+    4300042: SaiFire:pasted__pCylinder105
+    4300044: SaiFire:pasted__pSphere1
+    4300046: SaiFire:pasted__pSphere2
+    4300048: SaiFire:pasted__pSphere3
+    4300050: SaiFire:pasted__pSphere4
+    4300052: SaiFire:pasted__pSphere5
+    4300054: SaiFire:pasted__pSphere6
+    4300056: SaiFire:pasted__pSphere25
+    4300058: SaiFire:pasted__pSphere26
+    4300060: SaiFire:pasted__pSphere27
+    4300062: SaiFire:pasted__pSphere28
+    4300064: SaiFire:pasted__pSphere29
+    4300066: SaiFire:pasted__pSphere30
+    4300068: SaiFire:pasted__pSphere31
+    4300070: SaiFire:pasted__pSphere32
+    4300072: SaiFire:pasted__pSphere33
+    4300074: SaiFire:pasted__pSphere34
+    4300076: SaiFire:pasted__pSphere35
+    4300078: SaiFire:pasted__pSphere36
+    4300080: SaiFire:pasted__pSphere37
+    4300082: SaiFire:pasted__pSphere39
+    4300084: SaiFire:pasted__pSphere40
+    4300086: SaiFire:pasted__pSphere41
+    4300088: SaiFire:pasted__pSphere7
+    4300090: SaiFire:pasted__pSphere8
+    4300092: SaiFire:pasted__pSphere9
+    4300094: SaiFire:pasted__pSphere10
+    4300096: SaiFire:pasted__pSphere11
+    4300098: SaiFire:pasted__pSphere12
+    4300100: SaiFire:pasted__pSphere13
+    4300102: SaiFire:pasted__pSphere14
+    4300104: SaiFire:pasted__pSphere15
+    4300106: SaiFire:pasted__pSphere16
+    4300108: SaiFire:pasted__pSphere17
+    4300110: SaiFire:pasted__pSphere18
+    4300112: SaiFire:pasted__pSphere19
+    4300114: SaiFire:pasted__pSphere20
+    4300116: SaiFire:pasted__pSphere21
+    4300118: SaiFire:pasted__pSphere22
+    4300120: SaiFire:pasted__pSphere23
+    4300122: SaiFire:pasted__pSphere24
+    4300124: pasted__pCylinder105
+    4300126: pasted__pSphere1
+    4300128: pasted__pSphere2
+    4300130: pasted__pSphere3
+    4300132: pasted__pSphere4
+    4300134: pasted__pSphere5
+    4300136: pasted__pSphere6
+    4300138: pasted__pSphere25
+    4300140: pasted__pSphere26
+    4300142: pasted__pSphere27
+    4300144: pasted__pSphere28
+    4300146: pasted__pSphere29
+    4300148: pasted__pSphere30
+    4300150: pasted__pSphere31
+    4300152: pasted__pSphere32
+    4300154: pasted__pSphere33
+    4300156: pasted__pSphere34
+    4300158: pasted__pSphere35
+    4300160: pasted__pSphere36
+    4300162: pasted__pSphere37
+    4300164: pasted__pSphere39
+    4300166: pasted__pSphere40
+    4300168: pasted__pSphere41
+    4300170: pasted__pSphere7
+    4300172: pasted__pSphere8
+    4300174: pasted__pSphere9
+    4300176: pasted__pSphere10
+    4300178: pasted__pSphere11
+    4300180: pasted__pSphere12
+    4300182: pasted__pSphere13
+    4300184: pasted__pSphere14
+    4300186: pasted__pSphere15
+    4300188: pasted__pSphere16
+    4300190: pasted__pSphere17
+    4300192: pasted__pSphere18
+    4300194: pasted__pSphere19
+    4300196: pasted__pSphere20
+    4300198: pasted__pSphere21
+    4300200: pasted__pSphere22
+    4300202: pasted__pSphere23
+    4300204: pasted__pSphere24
+    4300206: main_shop
+    4300208: pCylinder38
+    4300210: pCylinder39
+    4300212: somtum
+    4300214: chinping
+    4300216: left_shop
+    4300218: right_shop
+    4300220: ice
+    4300222: floor
+    4300224: wall
+    4300226: temple_2D
+    4300228: jedi
+    4300230: wall_temple
+    4300232: tree
+    4300234: tree2
+    4300236: pSphere7
+    4300238: temple_mesh_polySurface3
+    4300240: SaiFire1:pasted__pCylinder105
+    4300242: SaiFire1:pasted__pSphere1
+    4300244: SaiFire1:pasted__pSphere2
+    4300246: SaiFire1:pasted__pSphere3
+    4300248: SaiFire1:pasted__pSphere4
+    4300250: SaiFire1:pasted__pSphere5
+    4300252: SaiFire1:pasted__pSphere6
+    4300254: SaiFire1:pasted__pSphere25
+    4300256: SaiFire1:pasted__pSphere26
+    4300258: SaiFire1:pasted__pSphere27
+    4300260: SaiFire1:pasted__pSphere28
+    4300262: SaiFire1:pasted__pSphere29
+    4300264: SaiFire1:pasted__pSphere30
+    4300266: SaiFire1:pasted__pSphere31
+    4300268: SaiFire1:pasted__pSphere32
+    4300270: SaiFire1:pasted__pSphere33
+    4300272: SaiFire1:pasted__pSphere34
+    4300274: SaiFire1:pasted__pSphere35
+    4300276: SaiFire1:pasted__pSphere36
+    4300278: SaiFire1:pasted__pSphere37
+    4300280: SaiFire1:pasted__pSphere39
+    4300282: SaiFire1:pasted__pSphere40
+    4300284: SaiFire1:pasted__pSphere41
+    4300286: SaiFire1:pasted__pSphere7
+    4300288: SaiFire1:pasted__pSphere8
+    4300290: SaiFire1:pasted__pSphere9
+    4300292: SaiFire1:pasted__pSphere10
+    4300294: SaiFire1:pasted__pSphere11
+    4300296: SaiFire1:pasted__pSphere12
+    4300298: SaiFire1:pasted__pSphere13
+    4300300: SaiFire1:pasted__pSphere14
+    4300302: SaiFire1:pasted__pSphere15
+    4300304: SaiFire1:pasted__pSphere16
+    4300306: SaiFire1:pasted__pSphere17
+    4300308: SaiFire1:pasted__pSphere18
+    4300310: SaiFire1:pasted__pSphere19
+    4300312: SaiFire1:pasted__pSphere20
+    4300314: SaiFire1:pasted__pSphere21
+    4300316: SaiFire1:pasted__pSphere22
+    4300318: SaiFire1:pasted__pSphere23
+    4300320: SaiFire1:pasted__pSphere24
+    4300322: pCube11
+    4300324: pCube12
+    4300326: CoreGame_Obj_polySurface2
+    4300328: balloon_pCube2
+    4300330: shop_pCube7
+    4300332: watercar_polySurface1
+    4300334: pPipe56
+    4300336: chair_pCube9
+    4300338: chair_pCube10
+    4300340: temple_mesh_pSphere7
+    4300342: temple
+    4300344: pond
+    4300346: BalloonShop
+    4300348: saimai
+    4300350: sky
+    4300352: patthai
+    4300354: porkballs
+    4300356: tincan
+    4300358: Newwatercar_polySurface3
+    4300360: polySurface91
+    4300362: dartshop
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: icee1_lambert2
+    second: {fileID: 2100000, guid: a436699c2e92e914c9a61d6c0033ea18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 24348ee5a22ffbb4d906f06f88630117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: dade05332da29a14faac3efebd306533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 4475276e112f3e84abe06bf8e1b4cb3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: b8bc4b68824ba5943b0aa2432b009503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: f37da964b8e3d0d4082db6cb00ae038f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: 5e837e004f5e87a41be7b3b9dfc9a468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: 4772b1a582b791343921807b588372b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 03e6c519d8d60c6408666509bc50ba02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 6e25a849420da64469d227c128a10b92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20
+    second: {fileID: 2100000, guid: a1483be038dc70847b2199a3296a00ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert21
+    second: {fileID: 2100000, guid: 63e02325bce882c4299eba974d50ab4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert22
+    second: {fileID: 2100000, guid: 19e28da682a0d5b43a7dcb36237de81e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert23
+    second: {fileID: 2100000, guid: 63e02325bce882c4299eba974d50ab4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert24
+    second: {fileID: 2100000, guid: 17d8f8d9c77bcfb44b6f9a26e06c82f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert26
+    second: {fileID: 2100000, guid: 4ff38db80064bab419e04253167e8606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 5c784f4a76bc92040a8f069ecfff574c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: cb329745e3dc5e941877a374db8069ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 82beceb8bf17dd54fa2ad0554cc26ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new1
+    second: {fileID: 2100000, guid: 5619aa04cac211243b70049e685248e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: newdartshop
+    second: {fileID: 2100000, guid: de11b1fdd3591d6409ecab8e23af339c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: newtincan1
+    second: {fileID: 2100000, guid: f6ad2ca075a523149a2f562dd59af77c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: padthai_lambert9
+    second: {fileID: 2100000, guid: 1078864e1de713342b2c134625de82ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pork11
+    second: {fileID: 2100000, guid: 028c8d2c80ae2c5459b1f219b994782a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: saimai_fix_lambert11
+    second: {fileID: 2100000, guid: 4d24947c2db8f784c84d65af4bb3a372, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: temple_mesh_lambert14
+    second: {fileID: 2100000, guid: 2a932cefc1132924b81d77c4d4a4d4be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: temple_mesh_lambert16
+    second: {fileID: 2100000, guid: 301d6dc15f15eb340b84f0822ac36a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: temple_mesh_lambert5
+    second: {fileID: 2100000, guid: 240273f58f7a9ed469a89578ba03d178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: temple_mesh_lambert7
+    second: {fileID: 2100000, guid: 26f75462acc821148ba9fffb14c21e81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: temple_mesh_pasted__lambert10
+    second: {fileID: 2100000, guid: cebe88a4f0722664daa7f2ebe8f631cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: temple_mesh_pasted__lambert6
+    second: {fileID: 2100000, guid: 3899956db9b6a814fb8e8b729eae3836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: temple_mesh_pasted__lambert7
+    second: {fileID: 2100000, guid: 70b9fde55c2ecf14cb856b7faf279c7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: temple_mesh_pasted__lambert9
+    second: {fileID: 2100000, guid: 93f424e06a105bd4b8ed7e38f8793a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texture_fix_lambert16
+    second: {fileID: 2100000, guid: 59c5821c677610144971e5f46c1a1eaa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
