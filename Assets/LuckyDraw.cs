@@ -19,6 +19,7 @@ public class LuckyDraw : MonoBehaviour
     [SerializeField] List<string> Tier3Prize = new List<string>();
     [SerializeField] List<string> Tier4Prize = new List<string>();
     [SerializeField] private GameObject Player;
+    public bool PlayerIsInZone = false;
     private Collider playercol;
 
     private string PrizeTierPrefix = "";
@@ -107,7 +108,7 @@ public class LuckyDraw : MonoBehaviour
 
     public void AddPoint()
     {
-        if(GameModeOn == true)
+        if(GameModeOn==true&&PlayerIsInZone==true)
         {
             shotcount++;
         }
