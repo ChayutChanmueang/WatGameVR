@@ -106,11 +106,11 @@ public class LuckyDraw : MonoBehaviour
         shotcount = 0;
     }
 
-    public void AddPoint()
+    public void AddPoint(int point)
     {
         if(GameModeOn==true&&PlayerIsInZone==true)
         {
-            shotcount++;
+            shotcount += point;
         }
         
     }

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c6f3088244603474a834a41baf86720a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TH Niramit AS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a694fa449e8cf1140bf8b746e3b98cb6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
