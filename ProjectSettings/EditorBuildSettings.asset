@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Openhouse-V3.unity
-    guid: f2cff5923769b1243b31847f7d08725b
+    path: Assets/Scenes/Openhouse-2023.unity
+    guid: 3eda7dc6d25496f46b41e84e3a97c8bb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3530bcc227d66b344ae5ded32ff2f26b,
       type: 2}

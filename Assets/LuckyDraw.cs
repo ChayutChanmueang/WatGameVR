@@ -19,6 +19,7 @@ public class LuckyDraw : MonoBehaviour
     [SerializeField] List<string> Tier3Prize = new List<string>();
     [SerializeField] List<string> Tier4Prize = new List<string>();
     [SerializeField] private GameObject Player;
+    [SerializeField] private GameObject Targets;
     public bool PlayerIsInZone = false;
     private Collider playercol;
 
@@ -47,6 +48,7 @@ public class LuckyDraw : MonoBehaviour
 
         if (GameModeOn == true)
         {
+            Targets.SetActive(true);
             if (Input.GetKeyDown(KeyCode.F1))
             {
                 timer = TimeLimit;
@@ -56,23 +58,37 @@ public class LuckyDraw : MonoBehaviour
             }
             currentmodetext.text = "Game Mode";
             timer -= Time.deltaTime;
-            if(timer <= 0)
+            if (timer <= 0)
             {
                 GameModeOn = false;
                 warning = "Time Out";
-                PrizeSummary();  
+                PrizeSummary();
+            }
+            if(PlayerIsInZone == true)
+            {
+                warning = "";
+            }
+            else
+            {
+                warning = "Stand in Pink Area to earn points";
             }
         }
         else
         {
+            Targets.SetActive(false);
             currentmodetext.text = "Practice Mode";
 
-            if (Input.GetKeyDown(KeyCode.F1))
+            if (Input.GetKeyDown(KeyCode.F1) && PlayerIsInZone == true)
             {
                 timer = TimeLimit;
                 GameModeOn = true;
                 prizedisplaytext.text = "";
                 warning = "";
+                shotcount = 0;
+            }
+            else if (Input.GetKeyDown(KeyCode.F1) && PlayerIsInZone == false)
+            {
+                warning = "Stand in Pink Area before starting";
             }
         }
 
